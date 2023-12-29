@@ -1,0 +1,238 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_DUT8_Ni-cp_phase
+_audit_block_doi                 10.5517/ccdc.csd.cc225ty1
+_database_code_depnum_ccdc_archive 'CCDC 1912233'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1039/C9TA06781G 2019
+loop_
+_audit_author_name
+_audit_author_address
+'Volodymyr Bon'
+;Technische Universitaet Dresden
+Germany
+;
+_audit_update_record             
+;
+2019-04-25 deposited with the CCDC.	2023-04-05 downloaded from the CCDC.
+;
+_audit_creation_date             2018-02-08
+_audit_creation_method           'Materials Studio'
+_symmetry_space_group_name_H-M   P1
+_symmetry_Int_Tables_number      1
+_symmetry_cell_setting           triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+_cell_length_a                   7.0454
+_cell_length_b                   8.2977
+_cell_length_c                   12.1395
+_cell_angle_alpha                81.2389
+_cell_angle_beta                 102.2167
+_cell_angle_gamma                105.5583
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Co1 Co 0.14862 0.02095 0.60050 0.00000 Uiso 1.00
+Co2 Co 0.27171 0.35063 0.59806 0.00001 Uiso 1.00
+O3 O 0.44593 0.20242 0.72503 0.05000 Uiso 1.00
+O4 O 0.32753 -0.07713 0.71233 0.05000 Uiso 1.00
+O5 O -0.03787 0.17088 0.48220 0.05000 Uiso 1.00
+N6 N -0.11221 -0.18336 0.61573 0.05000 Uiso 1.00
+N7 N 0.53710 0.54891 0.59277 0.05000 Uiso 1.00
+O8 O 0.17604 0.41094 0.70304 0.05000 Uiso 1.00
+O9 O 0.07145 0.12908 0.71338 0.05000 Uiso 1.00
+O10 O 0.34055 0.24399 0.48539 0.05000 Uiso 1.00
+O11 O 0.23420 -0.03833 0.49507 0.05000 Uiso 1.00
+C12 C 0.28011 0.09261 0.43674 0.05000 Uiso 1.00
+O13 O 0.09217 0.44634 0.48910 0.05000 Uiso 1.00
+C14 C -0.03912 0.30893 0.43760 0.05000 Uiso 1.00
+C15 C 0.44506 0.05341 0.77635 0.05000 Uiso 1.00
+C16 C -0.15901 -0.23146 0.72898 0.05000 Uiso 1.00
+C17 C -0.10155 -0.34233 0.55792 0.05000 Uiso 1.00
+C18 C 0.64336 0.61445 0.71622 0.05000 Uiso 1.00
+C19 C 0.49731 0.69850 0.53463 0.05000 Uiso 1.00
+C20 C -0.14450 0.32560 0.31020 0.05000 Uiso 1.00
+C21 C 0.69626 0.50601 1.54236 0.00000 Uiso 1.00
+C22 C 0.69789 0.84942 1.54553 0.00000 Uiso 1.00
+C23 C 0.87456 1.45659 1.23525 0.00000 Uiso 1.00
+C24 C 0.80060 1.41861 1.11830 0.00000 Uiso 1.00
+C25 C 0.70794 1.24712 1.07107 0.00000 Uiso 1.00
+C26 C 0.68530 1.11349 1.14361 0.00000 Uiso 1.00
+C27 C 0.75726 1.15327 1.26161 0.00000 Uiso 1.00
+C28 C 0.59239 0.94203 1.09640 0.00000 Uiso 1.00
+C29 C 0.51815 0.90409 0.97946 0.00000 Uiso 1.00
+C30 C 0.53788 1.03491 0.90449 0.00000 Uiso 1.00
+C31 C 0.63649 1.20721 0.95304 0.00000 Uiso 1.00
+C32 C 1.12006 1.28175 0.76045 0.00000 Uiso 1.00
+C33 C 1.15058 1.26823 0.89029 0.00000 Uiso 1.00
+C34 C 1.24674 1.42079 0.95861 0.00000 Uiso 1.00
+C35 C 1.28907 1.42029 1.07732 0.00000 Uiso 1.00
+C36 C 1.24319 1.26615 1.13188 0.00000 Uiso 1.00
+C37 C 1.14716 1.11251 1.06584 0.00000 Uiso 1.00
+C38 C 1.09870 1.11562 0.94731 0.00000 Uiso 1.00
+C39 C 1.10191 0.95769 1.11947 0.00000 Uiso 1.00
+C40 C 1.14469 0.95567 1.23766 0.00000 Uiso 1.00
+C41 C 1.23840 1.10773 1.30637 0.00000 Uiso 1.00
+C42 C 1.28967 1.26273 1.25079 0.00000 Uiso 1.00
+H43 H 1.63467 1.46777 0.44758 0.00000 Uiso 1.00
+H44 H 1.73651 1.39555 0.58169 0.00000 Uiso 1.00
+H45 H 1.71333 1.87392 0.45633 0.00000 Uiso 1.00
+H46 H 1.67711 1.96519 0.58508 0.00000 Uiso 1.00
+H47 H 1.68764 1.51192 0.76437 0.00000 Uiso 1.00
+H48 H 1.53809 1.65497 0.75983 0.00000 Uiso 1.00
+H49 H 1.38990 1.74568 0.57239 0.00000 Uiso 1.00
+H50 H 1.42087 1.66062 0.44077 0.00000 Uiso 1.00
+H51 H 1.81575 1.87718 0.77477 0.00000 Uiso 1.00
+H52 H 1.97227 1.73532 0.78510 0.00000 Uiso 1.00
+H53 H 2.02974 1.61897 0.60924 0.00000 Uiso 1.00
+H54 H 1.92754 1.68019 0.47096 0.00000 Uiso 1.00
+H55 H 1.29524 1.53973 0.92044 0.00000 Uiso 1.00
+H56 H 1.36380 1.54046 1.12665 0.00000 Uiso 1.00
+H57 H 1.02637 0.99583 0.89989 0.00000 Uiso 1.00
+H58 H 1.02776 0.83780 1.06967 0.00000 Uiso 1.00
+H59 H 1.09768 0.83585 1.27525 0.00000 Uiso 1.00
+H60 H 1.35831 1.38345 1.29995 0.00000 Uiso 1.00
+H61 H 1.95247 1.58852 1.26706 0.00000 Uiso 1.00
+H62 H 1.82023 1.52390 1.06433 0.00000 Uiso 1.00
+H63 H 1.74364 1.04760 1.31528 0.00000 Uiso 1.00
+H64 H 1.57253 0.83681 1.15037 0.00000 Uiso 1.00
+H65 H 1.43952 0.77233 0.94764 0.00000 Uiso 1.00
+H66 H 1.65132 1.31269 0.89926 0.00000 Uiso 1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Co1 O4 1.893 . S
+Co1 O5 2.207 . S
+Co1 N6 2.159 . S
+Co1 O9 1.982 . S
+Co1 O11 1.709 . S
+Co2 N7 2.139 . S
+Co2 O8 1.751 . S
+Co2 O10 1.941 . S
+Co2 O13 1.868 . S
+Co2 O3 2.197 . S
+O3 C15 1.296 . A
+O4 C15 1.402 . A
+O5 C14 1.192 . A
+N6 C16 1.453 . S
+N6 C17 1.611 . S
+N6 C22 1.494 1_444 S
+N7 C18 1.630 . S
+N7 C19 1.398 . S
+N7 C21 1.526 1_554 S
+O8 C32 1.205 1_445 A
+O9 C32 1.398 1_445 A
+O10 C12 1.393 . A
+O11 C12 1.209 . A
+C12 C41 1.539 1_444 S
+O13 C14 1.398 . A
+C14 C20 1.570 . S
+C15 C30 1.556 1_545 S
+C16 C18 1.616 1_445 S
+C16 H51 1.197 1_335 S
+C16 H52 1.099 1_335 S
+C17 C21 1.626 1_444 S
+C17 H53 1.096 1_335 S
+C17 H54 1.097 1_335 S
+C18 C16 1.616 1_665 S
+C18 H47 1.038 1_445 S
+C18 H48 1.139 1_445 S
+C19 C22 1.614 1_554 S
+C19 H49 1.139 1_445 S
+C19 H50 1.202 1_445 S
+C20 C23 1.304 1_444 A
+C20 C27 1.557 1_444 A
+C21 C17 1.626 1_666 S
+C21 N7 1.526 1_556 S
+C21 H43 1.200 1_446 S
+C21 H44 1.048 1_446 S
+C22 C19 1.614 1_556 S
+C22 N6 1.494 1_666 S
+C22 H45 1.094 1_446 S
+C22 H46 1.192 1_446 S
+C23 C20 1.304 1_666 A
+C23 C24 1.457 . A
+C23 H61 1.169 1_455 S
+C24 C25 1.540 . A
+C24 H62 1.005 1_455 S
+C25 C26 1.303 . A
+C25 C31 1.472 . A
+C26 C27 1.471 . A
+C26 C28 1.540 . A
+C27 C20 1.557 1_666 A
+C27 H63 1.005 1_455 S
+C28 C29 1.457 . A
+C28 H64 1.005 1_455 S
+C29 C30 1.303 . A
+C29 H65 1.168 1_455 S
+C30 C15 1.556 1_565 S
+C30 C31 1.557 . A
+C31 H66 1.004 1_455 S
+C32 O9 1.398 1_665 A
+C32 O8 1.205 1_665 A
+C32 C33 1.536 . S
+C33 C34 1.540 . A
+C33 C38 1.345 . A
+C34 C35 1.408 . A
+C34 H55 1.026 . S
+C35 C36 1.338 . A
+C35 H56 1.182 . S
+C36 C37 1.531 . A
+C36 C42 1.409 . A
+C37 C38 1.405 . A
+C37 C39 1.338 . A
+C38 H57 1.165 . S
+C39 C40 1.401 . A
+C39 H58 1.183 . S
+C40 C41 1.538 . A
+C40 H59 1.027 . S
+C41 C12 1.539 1_666 S
+C41 C42 1.353 . A
+C42 H60 1.180 . S
+H43 C21 1.200 1_664 S
+H44 C21 1.048 1_664 S
+H45 C22 1.094 1_664 S
+H46 C22 1.192 1_664 S
+H47 C18 1.038 1_665 S
+H48 C18 1.139 1_665 S
+H49 C19 1.139 1_665 S
+H50 C19 1.202 1_665 S
+H51 C16 1.197 1_775 S
+H52 C16 1.099 1_775 S
+H53 C17 1.096 1_775 S
+H54 C17 1.097 1_775 S
+H61 C23 1.169 1_655 S
+H62 C24 1.005 1_655 S
+H63 C27 1.005 1_655 S
+H64 C28 1.005 1_655 S
+H65 C29 1.168 1_655 S
+H66 C31 1.004 1_655 S
+_chemical_name_systematic        DUT-8(Co)-closed-pore
+_exptl_crystal_colour            blue
+_chemical_properties_physical    Moisture-sensitive

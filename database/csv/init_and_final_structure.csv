@@ -1,0 +1,67 @@
+﻿idx;Folder num;CIF_init;CIF_final;Reversible;Stimuli
+1;1;initial MOF-5-C7 2040922.cif;to MOF-5(C7)_desolvated phase 2040923.cif;yes;solvent
+2;2;initial MOF DMF@DUT-8(Ni) 1989709.cif;to DUT-8(Ni) polymorph B 1989708.cif;yes;solvent
+3;3;from part_2.cif;to part_4.cif;yes;T, solvent
+4;6;initials MOFs 1961201.cif;final MOFs 1961202.cif;yes;solvent
+5;6;initials MOFs 1961203.cif;initials MOFs 1961201.cif;no;solvent
+6;6;initials MOFs 1961204.cif;initials MOFs 1961201.cif;no;solvent
+7;7;from UTSA-74 1884102.cif;to MOF-74 (Zn) 1512654.cif;no;solvent
+8;7;from HIMS-74 1884101.cif;to MOF-74 (Zn) 1512654.cif;no;solvent
+9;9;initial STA-26(Zr) 1571655.cif;to STA-26(Zr)-C (changed symmetry) 1571656.cif;yes;solvent
+10;13;from Cu(I)-MOF-1 2084812.cif;to Cu(II)-MOF-3 1524653.cif;no;solvent
+11;13;from Cu(I)Cu(II)-MOF-2 2084857.cif;to Cu(II)-MOF-3 1524653.cif;no;solvent
+12;16;1cp(des) MOF back to the initial1944823.cif;to 1lp MOF 1944821.cif;yes;gas
+13;16;initial 1cp MOF 1944820.cif;to 1np MOF 1944822.cif;yes;gas
+14;17;to 2fa' 1052169.cif;to 3fa 1052173.cif;no;T
+15;17;from MOF 2fa 1052168.cif;to 3fa 1052173.cif;no;T
+16;20;initial MOF 1014506.cif;to changed structure 1014507.cif;yes;T
+17;21;from assynthesized DUT-30(Zn) 804770.cif;to DUT-30(Zn) after phase transition 804771.cif;no;solvent
+18;23;from change Space g 250-Ü 1970083.cif;to 210 K same SG 1970082.cif;yes;T
+19;24;from SION-2 1503701.cif;to SION-1 1503702.cif;no;T
+20;30;from DMF solvated Fe(bdp) 100 K 1058447.cif;to DMF solvated Fe(bdp) 298 K 1058448.cif;yes;T
+21;30;from Fe(bdp) 25C 1058446.cif;to Fe(bdp) 25C 50 bar 1058450.cif;yes;gas
+22;31;2) from 9 1045135.cif;2) to 10 1045134.cif;yes;solvent
+23;31;1) from 6 1055570.cif;1) to 7 1031676.cif;yes;solvent
+24;37;from C2_c 1021935.cif;to Fdd2 1021920.cif;yes;solvent
+25;42;INITIAL anie202202073-sup-0001-nku-128_298k.cif;to anie202202073-sup-0001-nku-128_thf.cif;yes;solvent
+26;42;INITIAL anie202202073-sup-0001-nku-128_298k.cif;to anie202202073-sup-0001-nku-128_toluene.cif;yes;solvent
+27;47;initial Zn-1 238860.cif;to Zn-1 with DMF 238859.cif;yes;solvent
+28;52;1) initial MnMOF-1 DMF 989581.cif;to 1-5 or 2-5) MeCn or p-Xylene solvated 1977798.cif;no;solvent
+29;52;1-2) from MnMOF-1 to aceton solvated 1977803.cif;to 1-5 or 2-5) MeCn or p-Xylene solvated 1977798.cif;no;solvent
+30;52;1-2) from MnMOF-1 to aceton solvated 1977803.cif;to 2-3) to THF solvated 1977804.cif;no;solvent
+31;52;1-2) from MnMOF-1 to aceton solvated 1977803.cif;to 2-6) to DEE solvated 1977799.cif;no;solvent
+32;54;from Phase I 1031344.cif;to Phase II 1031342.cif;no;humidity
+33;55;from as- flexMOF 975746.cif;to d- flexMOF dried 975745.cif;yes;solvent
+34;58;from (1) 1974527.cif;to (3) 1974529.cif;yes;T, solvent
+35;60;initial (1) 1455983.cif;(2) to 2 by immercing first compound 1816056.cif;no;solvent
+36;62;From b-IRMOF-9DMF 1572717.cif;To a-IRMOF-9DMF 1572714.cif;yes;T
+37;65;from 975784.cif;to 1555242.cif;no;Pressure
+38;66;from DUT-49(Zn) 296K 890363.cif;to DUT-49(Zn) 100K 2014973.cif;yes;T
+39;66;from DUT-49(Ni) 296K 1957605.cif;to DUT-49(Ni) 100K 2014970.cif;yes;T
+40;66;from DUT-49(Mn) 296K 1957604.cif;to DUT-49(Mn) 100K 2014971.cif;yes;T
+41;66;from DUT-49(Co) 296 K 890364.cif;to DUT-49(Co) 100K 2014974.cif;yes;T
+42;66;from DUT-49(Cd) 296K 1957602.cif;to DUT-49(Cd) 100K 2014972.cif;yes;T
+43;66;from DUT-49(Fe) 296 K 1957603.cif;to DUT-49(Fe) 100 K2014975.cif;yes;T
+44;67;from (Co-MOF) 1912199.cif;to (Co-MOF) 1912233.cif;yes;solvent
+45;69;from CAU13_0GPa.cif;to CAU13_-1GPa.cif;yes;pressure
+46;69;from NOTT300_0GPa.cif;to NOTT300_1GPa_shear.cif;yes;pressure
+47;71;from ja054913a_si_001.cif;from ja054913a_si_002.cif;yes;T
+48;71;from ja054913a_si_002.cif;to ja054913a_si_004.cif;yes;humidity
+49;72;from ja500530y_si_003.cif;to ja500530y_si_003.cif;no;T
+50;73;from ja101541s_si_004.cif;to ja101541s_si_003.cif;yes;solvent
+51;74;from 1934734.cif;to 1934735.cif;no;T
+52;75;from ic035111o_si_001.cif;to ic035111o_si_002.cif;no;T
+53;75;from ic035111o_si_002.cif;to ic035111o_si_003.cif;no;solvent
+54;76;from 1041925.cif;to 1041924.cif;no;T
+55;77;from 935302.cif;to 922086.cif;no;T
+56;78;from UPC-600 1942055.cif;to (1) UPC-600-373K 2060465.cif;no;T
+57;79;(2) to compound 2 924308.cif;(1') to  compound 2 1' 926445.cif;no;T
+58;80;from (1) in 5 636900.cif;to (5) cm6b05277_si_004.cif;no;T
+59;80;from (3) in 6  1515548.cif;to (6)cm6b05277_si_005.cif;no;T
+60;80;from (4) in 6 1536823.cif;to (6)cm6b05277_si_005.cif;no;T
+61;81;from (1) with DMF 1403842.cif;to compound with hexane 1403844.cif;yes;solvent
+62;81;from (1) with DMF 1403842.cif;to compound with methanol 1403845.cif;yes;solvent
+63;82;from 2D 854460.cif;to 3D 854461.cif;no;solvent
+64;83;from (3) 1483716.cif;to (4) 1483725.cif;no;T
+65;84;from VMOP-+ 1878068.cif;to VMOP-+ 1590348.cif;yes;T
+66;85;from 1a.cif;to 1b.cif;yes;solvent, gas

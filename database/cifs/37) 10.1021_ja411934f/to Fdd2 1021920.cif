@@ -1,0 +1,663 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_ScBDCNO2_FC77
+_audit_block_doi                 10.5517/cc139d5z
+_database_code_depnum_ccdc_archive 'CCDC 1021920'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/ja411934f 2014
+_audit_update_record             
+;
+2014-08-21 deposited with the CCDC.	2023-03-31 downloaded from the CCDC.
+;
+_audit_creation_date             13-04-25
+_audit_creation_method           CRYSTALS_ver_14.40
+
+_oxford_structure_analysis_title 'Sc2NO2BDC3 in Fdd2'
+_chemical_name_systematic        ?
+_chemical_melting_point          ?
+
+#end of refcif 
+_cell_length_a                   19.610(6)
+_cell_length_b                   32.864(8)
+_cell_length_c                   8.6757(16)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     5591(2)
+
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'F d d 2 '
+_symmetry_space_group_name_Hall  'F 2 -2d '
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,y+1/2,z+1/2
+x+1/2,y,z+1/2
+x+1/2,y+1/2,z
+-x+1/4,y+1/4,z+1/4
+-x+1/4,y+3/4,z+3/4
+-x+3/4,y+1/4,z+3/4
+-x+3/4,y+3/4,z+1/4
+x+1/4,-y+1/4,z+1/4
+x+1/4,-y+3/4,z+3/4
+x+3/4,-y+1/4,z+3/4
+x+3/4,-y+3/4,z+1/4
+-x+1/2,-y,z+1/2
+-x+1/2,-y+1/2,z+1
+-x+1,-y,z+1
+-x+1,-y+1/2,z+1/2
+
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+_atom_type_scat_source
+C 0.0033 0.0016 2.3100 20.8439 1.0200 10.2075 1.5886 0.5687 0.8650 51.6512
+0.2156 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+H 0.0000 0.0000 0.4930 10.5109 0.3229 26.1257 0.1402 3.1424 0.0408 57.7998
+0.0030 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+N 0.0061 0.0033 12.2126 0.0057 3.1322 9.8933 2.0125 28.9975 1.1663 0.5826
+-11.5290 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+O 0.0106 0.0060 3.0485 13.2771 2.2868 5.7011 1.5463 0.3239 0.8670 32.9089
+0.2508 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+Sc 0.2519 0.3716 9.1890 9.0213 7.3679 0.5729 1.6409 136.1080 1.4680 51.3531
+1.3329 'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+
+
+_cell_formula_units_Z            8
+
+# Given Formula = C20 H20 N4 O10 Sc1 
+# Dc =      1.24 Fooo =   2856.00 Mu =      3.16 M =    260.68
+# Found Formula = C24 H6 N3 O18 Sc2 
+# Dc =      1.70 FOOO =   2856.00 Mu =      5.79 M =    357.12
+
+_chemical_formula_sum            'C24 H6 N3 O18 Sc2'
+_chemical_formula_moiety         'C24 H6 N3 O18 Sc2'
+_chemical_compound_source        ?
+_chemical_formula_weight         714.23
+
+
+_cell_measurement_reflns_used    1102
+_cell_measurement_theta_min      3
+_cell_measurement_theta_max      21
+_cell_measurement_temperature    293
+
+_exptl_crystal_description       block
+_exptl_crystal_colour            colourless
+_exptl_crystal_size_min          0.120
+_exptl_crystal_size_mid          0.120
+_exptl_crystal_size_max          0.200
+
+_exptl_crystal_density_diffrn    1.697
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+# Non-dispersive F(000): 
+_exptl_crystal_F_000             2856
+_exptl_absorpt_coefficient_mu    0.579
+
+# Sheldrick geometric approximatio 0.93 0.93 
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'SADABS (Siemens, 1996)'
+_exptl_absorpt_correction_T_min  0.53
+_exptl_absorpt_correction_T_max  0.93
+_diffrn_measurement_device_type  'Bruker Kappa Apex2'
+_diffrn_measurement_device       Area
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71073
+_diffrn_measurement_method       \w
+
+# If a reference occurs more than once, delete the author 
+# and date from subsequent references. 
+_computing_data_collection       'Apex2 (Bruker AXS, 2006)'
+_computing_cell_refinement       'Apex2 (Bruker AXS, 2006)'
+_computing_data_reduction        'Apex2 (Bruker AXS, 2006)'
+_computing_structure_solution    'USER DEFINED STRUCTURE SOLUTION'
+_computing_structure_refinement  'CRYSTALS (Betteridge et al., 2003)'
+_computing_publication_material  'CRYSTALS (Betteridge et al., 2003)'
+_computing_molecular_graphics    'CAMERON (Watkin et al., 1996)'
+
+_diffrn_standards_interval_time  .
+_diffrn_standards_interval_count .
+_diffrn_standards_number         0
+_diffrn_standards_decay_%        ?
+
+_diffrn_ambient_temperature      293
+_diffrn_reflns_number            4038
+_reflns_number_total             1047
+_diffrn_reflns_av_R_equivalents  0.121
+# Number of reflections without Friedels Law is 1047 
+# Number of reflections with Friedels Law is 799 
+# Theoretical number of reflections is about 756 
+
+
+_diffrn_reflns_theta_min         3.170
+_diffrn_reflns_theta_max         21.057
+_diffrn_measured_fraction_theta_max 0.711
+
+_diffrn_reflns_theta_full        15.793
+_diffrn_measured_fraction_theta_full 0.745
+
+
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_h_max       16
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_k_max       30
+_diffrn_reflns_limit_l_min       -8
+_diffrn_reflns_limit_l_max       8
+_reflns_limit_h_min              0
+_reflns_limit_h_max              16
+_reflns_limit_k_min              0
+_reflns_limit_k_max              30
+_reflns_limit_l_min              -8
+_reflns_limit_l_max              8
+
+_oxford_diffrn_Wilson_B_factor   3.65
+_oxford_diffrn_Wilson_scale      134.24
+
+_atom_sites_solution_primary     Other #heavy,direct,difmap,geom
+# _atom_sites_solution_secondary  difmap
+_atom_sites_solution_hydrogens   difmap
+
+_refine_diff_density_min         -1.80
+_refine_diff_density_max         1.51
+
+
+# The current dictionary definitions do not cover the 
+# situation where the reflections used for refinement were 
+# selected by a user-defined sigma threshold 
+
+
+# The values actually used during refinement 
+_oxford_reflns_threshold_expression_ref I>-10.0\s(I)
+_refine_ls_number_reflns         1003
+_refine_ls_number_restraints     131
+_refine_ls_number_parameters     119
+_oxford_refine_ls_R_factor_ref   0.1748
+_refine_ls_wR_factor_ref         0.3453
+_refine_ls_goodness_of_fit_ref   1.2282
+_refine_ls_shift/su_max          0.0144657
+_refine_ls_shift/su_mean         0.0008316
+
+
+# The values computed with all filters except I/sigma 
+_oxford_reflns_number_all        1003
+_refine_ls_R_factor_all          0.1748
+_refine_ls_wR_factor_all         0.3453
+
+# The values computed with a 2 sigma cutoff - a la SHELX 
+_reflns_threshold_expression     I>2.0\s(I)
+_reflns_number_gt                618
+_refine_ls_R_factor_gt           0.1255
+_refine_ls_wR_factor_gt          0.3015
+
+_refine_ls_abs_structure_Flack   0.7(3)
+_refine_ls_abs_structure_details 'Flack (1983), 248 Friedel-pairs'
+# choose from: rm (reference molecule of known chirality), 
+# ad (anomolous dispersion - Flack), rmad (rm and ad), 
+# syn (from synthesis), unk (unknown) or . (not applicable). 
+_chemical_absolute_configuration ad
+
+
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_matrix_type           full
+_refine_ls_hydrogen_treatment    constr #undef, noref, refall,
+# refxyz, refU, constr or mixed
+_refine_ls_weighting_scheme      calc
+_refine_ls_weighting_details     
+;
+ Method= Modified Sheldrick 
+ w=1/[\s^2^(F^2^) + ( 0.20P)^2^ + 0.00P] 
+ ,where P=(max(Fo^2^,0) + 2Fc^2^)/3 
+;
+
+# Uequiv = arithmetic mean of Ui i.e. Ueqiv = (U1+U2+U3)/3
+
+# Replace last . with number of unfound hydrogen atoms attached to an atom.
+
+# ..._refinement_flags_... 
+# . no refinement constraints           S special position constraint on site
+# G rigid group refinement of site      R riding atom
+# D distance or angle restraint on site T thermal displacement constraints
+# U Uiso or Uij restraint (rigid bond)  P partial occupancy constraint
+
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+_atom_site_adp_type
+_atom_site_refinement_flags_posn
+_atom_site_refinement_flags_adp
+_atom_site_refinement_flags_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+_atom_site_attached_hydrogens
+Sc1 Sc 0.2546(2) 0.48873(12) 0.3183(7) 0.0416 1.0000 Uani . . . . . .
+C1 C 0.2630(13) 0.4321(4) 0.5918(10) 0.058(2) 1.0000 Uiso D U . . . .
+C2 C 0.2911(13) 0.3916(4) 0.6449(10) 0.058(2) 1.0000 Uiso D U . . . .
+C3 C 0.3045(13) 0.3870(4) 0.7994(11) 0.060(2) 1.0000 Uiso D U . . . .
+C4 C 0.3378(10) 0.3522(5) 0.8569(10) 0.060(2) 1.0000 Uiso D U . . . .
+C5 C 0.3616(12) 0.3249(5) 0.7472(11) 0.061(2) 1.0000 Uiso D U . . . .
+C6 C 0.3494(12) 0.3299(5) 0.5952(12) 0.060(2) 1.0000 Uiso D U . . . .
+C7 C 0.3138(12) 0.3634(3) 0.5400(10) 0.059(2) 1.0000 Uiso D U . . . .
+C8 C 0.1458(6) 0.5207(7) 0.5537(12) 0.067(3) 1.0000 Uiso D U . . . .
+C9 C 0.0706(5) 0.5116(7) 0.5527(12) 0.068(3) 1.0000 Uiso D U . . . .
+C10 C 0.0344(2) 0.5057(4) 0.4179(13) 0.069(3) 1.0000 Uiso D U . . . .
+C11 C 0.0338(5) 0.5063(8) 0.6846(15) 0.069(3) 1.0000 Uiso D U . . . .
+C12 C 0.3408(10) 0.5419(5) 0.5579(13) 0.061(2) 1.0000 Uiso D U . . . .
+O1 O 0.2578(9) 0.4377(4) 0.4496(11) 0.058(3) 1.0000 Uiso D U . . . .
+O2 O 0.2432(9) 0.4580(4) 0.6862(12) 0.058(3) 1.0000 Uiso D U . . . .
+O3 O 0.1740(8) 0.5152(5) 0.4290(12) 0.068(3) 1.0000 Uiso D U . . . .
+O4 O 0.3290(9) 0.5166(4) 0.4549(13) 0.062(3) 1.0000 Uiso D U . . . .
+O5 O 0.3177(9) 0.5416(4) 0.6892(12) 0.062(3) 1.0000 Uiso D U . . . .
+O6 O 0.1681(7) 0.5322(5) 0.6797(13) 0.067(3) 1.0000 Uiso D U . . . .
+O41 O 0.3947(12) 0.3735(8) 1.071(3) 0.135(11) 0.5000 Uiso D U . . . .
+O42 O 0.3151(13) 0.3259(7) 1.086(2) 0.135(11) 0.5000 Uiso D U . . . .
+O71 O 0.246(2) 0.3557(5) 0.349(4) 0.26(2) 0.5000 Uiso D U . . . .
+O72 O 0.362(3) 0.3736(5) 0.327(4) 0.26(2) 0.5000 Uiso D U . . . .
+O101 O 0.0727(6) 0.5567(5) 0.249(3) 0.109(10) 0.5000 Uiso D U . . 1 .
+O102 O 0.0354(7) 0.5035(7) 0.1543(18) 0.108(10) 0.5000 Uiso D U . . . .
+N4 N 0.3511(11) 0.3506(6) 1.0191(13) 0.135(11) 0.5000 Uiso D U . . . .
+N7 N 0.306(2) 0.3642(4) 0.3754(14) 0.26(2) 0.5000 Uiso D U . . . .
+N10 N 0.0477(4) 0.5232(5) 0.2701(15) 0.109(10) 0.5000 Uiso D U . . 1 .
+H31 H 0.2868 0.4065 0.8697 0.0843 1.0000 Uiso R . . . . .
+H61 H 0.3615 0.3087 0.5261 0.0753 1.0000 Uiso R . . . . .
+H111 H 0.0563 0.5097 0.7808 0.1049 1.0000 Uiso R . . . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Sc1 0.030(4) 0.020(3) 0.075(3) -0.005(3) -0.002(3) -0.005(3)
+
+_refine_ls_extinction_method     None
+_oxford_refine_ls_scale          0.07537(14)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_site_symmetry_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+Sc1 . O2 13_564 2.094(13) yes
+Sc1 . O5 13_564 2.064(14) yes
+Sc1 . O6 13_564 2.052(15) yes
+Sc1 . O1 . 2.029(13) yes
+Sc1 . O3 . 2.044(15) yes
+Sc1 . O4 . 2.090(14) yes
+C1 . C2 . 1.510(8) yes
+C1 . O1 . 1.251(8) yes
+C1 . O2 . 1.243(8) yes
+C2 . C3 . 1.374(8) yes
+C2 . C7 . 1.374(8) yes
+C3 . C4 . 1.409(8) yes
+C3 . H31 . 0.950 no
+C4 . C5 . 1.388(8) yes
+C4 . N4 . 1.433(9) yes
+C5 . C12 8_545 1.524(8) yes
+C5 . C6 . 1.350(8) yes
+C6 . C7 . 1.389(8) yes
+C6 . H61 . 0.950 no
+C7 . N7 . 1.437(9) yes
+C8 . C9 . 1.503(8) yes
+C8 . O3 . 1.229(8) yes
+C8 . O6 . 1.237(9) yes
+C9 . C10 . 1.382(8) yes
+C9 . C11 . 1.364(8) yes
+C10 . C10 15_464 1.399(9) yes
+C10 . N10 . 1.429(9) yes
+C11 . C11 15_464 1.390(9) yes
+C11 . H111 . 0.950 no
+C12 . O4 . 1.243(8) yes
+C12 . O5 . 1.226(9) yes
+O41 . N4 . 1.224(10) yes
+O42 . N4 . 1.224(10) yes
+O71 . N7 . 1.221(10) yes
+O72 . N7 . 1.221(10) yes
+O101 . N10 . 1.219(9) yes
+O102 . N10 . 1.218(9) yes
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_site_symmetry_1
+_geom_angle_atom_site_label_2
+_geom_angle_site_symmetry_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+O2 13_564 Sc1 . O5 13_564 97.0(6) yes
+O2 13_564 Sc1 . O6 13_564 86.8(6) yes
+O5 13_564 Sc1 . O6 13_564 91.6(6) yes
+O2 13_564 Sc1 . O1 . 177.0(7) yes
+O5 13_564 Sc1 . O1 . 85.7(6) yes
+O6 13_564 Sc1 . O1 . 91.7(6) yes
+O2 13_564 Sc1 . O3 . 85.3(6) yes
+O5 13_564 Sc1 . O3 . 85.9(6) yes
+O6 13_564 Sc1 . O3 . 171.4(6) yes
+O1 . Sc1 . O3 . 96.3(6) yes
+O2 13_564 Sc1 . O4 . 86.0(6) yes
+O5 13_564 Sc1 . O4 . 177.0(6) yes
+O6 13_564 Sc1 . O4 . 88.0(6) yes
+O1 . Sc1 . O4 . 91.3(6) yes
+O3 . Sc1 . O4 . 95.0(6) yes
+C2 . C1 . O1 . 117.4(6) yes
+C2 . C1 . O2 . 121.0(6) yes
+O1 . C1 . O2 . 121.5(7) yes
+C1 . C2 . C3 . 117.7(6) yes
+C1 . C2 . C7 . 120.7(6) yes
+C3 . C2 . C7 . 120.6(6) yes
+C2 . C3 . C4 . 121.6(6) yes
+C2 . C3 . H31 . 118.8 no
+C4 . C3 . H31 . 119.3 no
+C3 . C4 . C5 . 116.0(6) yes
+C3 . C4 . N4 . 117.4(6) yes
+C5 . C4 . N4 . 126.1(5) yes
+C12 8_545 C5 . C4 . 115.4(5) yes
+C12 8_545 C5 . C6 . 122.2(6) yes
+C4 . C5 . C6 . 122.1(6) yes
+C5 . C6 . C7 . 121.4(6) yes
+C5 . C6 . H61 . 118.9 no
+C7 . C6 . H61 . 119.3 no
+C6 . C7 . C2 . 118.0(6) yes
+C6 . C7 . N7 . 114.4(6) yes
+C2 . C7 . N7 . 127.6(6) yes
+C9 . C8 . O3 . 114.1(7) yes
+C9 . C8 . O6 . 114.4(7) yes
+O3 . C8 . O6 . 131.5(7) yes
+C8 . C9 . C10 . 122.4(6) yes
+C8 . C9 . C11 . 122.6(6) yes
+C10 . C9 . C11 . 114.8(6) yes
+C10 15_464 C10 . C9 . 122.2(3) yes
+C10 15_464 C10 . N10 . 106.5(6) yes
+C9 . C10 . N10 . 127.6(6) yes
+C11 15_464 C11 . C9 . 122.9(4) yes
+C11 15_464 C11 . H111 . 118.5 no
+C9 . C11 . H111 . 118.5 no
+C5 7_554 C12 . O4 . 110.0(6) yes
+C5 7_554 C12 . O5 . 123.6(7) yes
+O4 . C12 . O5 . 126.4(7) yes
+Sc1 . O1 . C1 . 132.7(10) yes
+Sc1 13_565 O2 . C1 . 158.0(18) yes
+Sc1 . O3 . C8 . 145.7(13) yes
+Sc1 . O4 . C12 . 146.3(16) yes
+Sc1 13_565 O5 . C12 . 139.6(9) yes
+Sc1 13_565 O6 . C8 . 132.6(14) yes
+C4 . N4 . O41 . 118.0(8) yes
+C4 . N4 . O42 . 112.4(8) yes
+O41 . N4 . O42 . 129.6(8) yes
+C7 . N7 . O72 . 104.1(8) yes
+C7 . N7 . O71 . 106.9(8) yes
+O72 . N7 . O71 . 149.0(8) yes
+C10 . N10 . O101 . 124.9(7) yes
+C10 . N10 . O102 . 119.4(7) yes
+O101 . N10 . O102 . 115.7(8) yes
+
+
+_iucr_refine_instruction_details_constraints 
+;
+#
+# Punched on 25/04/13 at 16:17:37
+#
+#LIST     12                                                                    
+BLOCK SCALE X'S 
+CONT SC(1, U'S) 
+CONT C(1, U[ISO]) UNTIL N(10) 
+CONT ENANTIO 
+RIDE C   (   3,X'S) H   (  31,X'S) 
+RIDE C   (   6,X'S) H   (  61,X'S) 
+RIDE C   (  11,X'S) H   ( 111,X'S) 
+END                                                                             
+;
+
+
+_iucr_refine_instruction_details_restraints 
+;
+#
+# Punched on 25/04/13 at 16:17:37
+#
+#LIST     16                                                                    
+DIST   1.505,.01= C(1) TO C(2) 
+DIST   1.24,.01= C(1) TO O(1) 
+DIST   1.24,.01= C(1) TO O(2) 
+DIST   1.24,.01= C(8) TO O(3) 
+DIST   1.24,.01= C(8) TO O(6) 
+DIST   1.24,.01= C(12) TO O(4) 
+DIST   1.24,.01= C(12) TO O(5) 
+DIST   1.359,.01= C(2) TO C(3) 
+DIST   1.375,.01= C(2) TO C(7) 
+DIST   1.392,.01= C(3) TO C(4) 
+DIST   1.375,.01= C(4) TO C(5) 
+DIST   1.359,.01= C(5) TO C(6) 
+DIST   1.499,.01= C(5) TO C(12,2,4,0,-1) 
+DIST   1.392,.01= C(6) TO C(7) 
+DIST   1.499,.01= C(8) TO C(9) 
+DIST   1.375,.01= C(9) TO C(10) 
+DIST   1.359,.01= C(9) TO C(11) 
+DIST   1.392,.01= C(10) TO C(10,4,3,-1,1,-1) 
+DIST   1.392,.01= C(11) TO C(11,4,3,-1,1,-1) 
+DIST   1.22,.01= O(41) TO N(4) 
+DIST   1.22,.01= O(42) TO N(4) 
+DIST   1.22,.01= O(71) TO N(7) 
+DIST   1.22,.01= O(72) TO N(7) 
+DIST   1.22,.01= O(101) TO N(10) 
+DIST   1.22,.01= O(102) TO N(10) 
+DIST   1.424,.01= C(4) TO N(4) 
+DIST   1.424,.01= C(7) TO N(7) 
+DIST   1.424,.01= C(10) TO N(10) 
+ANGL 118,1= O(1) TO C(1) TO C(2) 
+ANGL 121,1= O(2) TO C(1) TO C(2) 
+ANGL 122,1= O(2) TO C(1) TO O(1) 
+ANGL 117,1= C(3) TO C(2) TO C(1) 
+ANGL 122,1= C(7) TO C(2) TO C(1) 
+ANGL 120,1= C(7) TO C(2) TO C(3) 
+ANGL 120,1= C(4) TO C(3) TO C(2) 
+ANGL 115,1= C(5) TO C(4) TO C(3) 
+ANGL 118,1= N(4) TO C(4) TO C(3) 
+ANGL 126,1= N(4) TO C(4) TO C(5) 
+ANGL 124,1= C(6) TO C(5) TO C(4) 
+ANGL 114,1= C(12,2,4,0,-1) TO C(5) TO C(4) 
+ANGL 122,1= C(12,2,4,0,-1) TO C(5) TO C(6) 
+ANGL 122,1= C(7) TO C(6) TO C(5) 
+ANGL 118,1= C(6) TO C(7) TO C(2) 
+ANGL 128,1= N(7) TO C(7) TO C(2) 
+ANGL 114,1= N(7) TO C(7) TO C(6) 
+ANGL 113,1= O(3) TO C(8) TO C(9) 
+ANGL 114,1= O(6) TO C(8) TO C(9) 
+ANGL 132,1= O(6) TO C(8) TO O(3) 
+ANGL 122,1= C(10) TO C(9) TO C(8) 
+ANGL 123,1= C(11) TO C(9) TO C(8) 
+ANGL 115,1= C(11) TO C(9) TO C(10) 
+ANGL 122,1= C(10,4,3,-1,1,-1) TO C(10) TO C(9) 
+ANGL 128,1= N(10) TO C(10) TO C(9) 
+ANGL 105,1= N(10) TO C(10) TO C(10,4,3,-1,1,-1) 
+ANGL 124,1= C(11,4,3,-1,1,-1) TO C(11) TO C(9) 
+ANGL 108,1= O(4) TO C(12) TO C(5,2,3,0,0,-1) 
+ANGL 123,1= O(5) TO C(12) TO C(5,2,3,0,0,-1) 
+ANGL 128,1= O(5) TO C(12) TO O(4) 
+ANGL 106,1= N(10) TO O(102) TO O(102,4,3,-1,1,-1) 
+ANGL 118,1= O(41) TO N(4) TO C(4) 
+ANGL 112,1= O(42) TO N(4) TO C(4) 
+ANGL 130,1= O(42) TO N(4) TO O(41) 
+ANGL 105,1= O(71) TO N(7) TO C(7) 
+ANGL 102,1= O(72) TO N(7) TO C(7) 
+ANGL 148,1= O(72) TO N(7) TO O(71) 
+ANGL 124,1= O(101) TO N(10) TO C(10) 
+ANGL 118,1= O(102) TO N(10) TO C(10) 
+ANGL 115,1= O(102) TO N(10) TO O(101) 
+PLANAR 0.010000  C(10) O(101) O(102) N(10) 
+PLANAR 0.010000  C(7) O(71) O(72) N(7) 
+PLANAR 0.010000  C(4) O(41) O(42) N(4) 
+VIBR .0, 0.00200 = C(1) TO C(2) 
+VIBR .0, 0.00200 = C(1) TO O(1) 
+VIBR .0, 0.00200 = C(1) TO O(2) 
+VIBR .0, 0.00500 = O(1) TO C(2) 
+VIBR .0, 0.00500 = O(2) TO C(2) 
+VIBR .0, 0.00500 = O(2) TO O(1) 
+VIBR .0, 0.00200 = C(2) TO C(3) 
+VIBR .0, 0.00200 = C(2) TO C(7) 
+VIBR .0, 0.00500 = C(3) TO C(1) 
+VIBR .0, 0.00500 = C(7) TO C(1) 
+VIBR .0, 0.00500 = C(7) TO C(3) 
+VIBR .0, 0.00200 = C(3) TO C(4) 
+VIBR .0, 0.00500 = C(4) TO C(2) 
+VIBR .0, 0.00200 = C(4) TO C(5) 
+VIBR .0, 0.00500 = C(5) TO C(3) 
+VIBR .0, 0.00200 = C(5) TO C(12,2,4,0,-1) 
+VIBR .0, 0.00200 = C(5) TO C(6) 
+VIBR .0, 0.00500 = C(4) TO C(12,2,4,0,-1) 
+VIBR .0, 0.00500 = C(6) TO C(12,2,4,0,-1) 
+VIBR .0, 0.00500 = C(6) TO C(4) 
+VIBR .0, 0.00200 = C(6) TO C(7) 
+VIBR .0, 0.00500 = C(7) TO C(5) 
+VIBR .0, 0.00500 = C(2) TO C(6) 
+VIBR .0, 0.00200 = C(8) TO C(9) 
+VIBR .0, 0.00200 = C(8) TO O(3) 
+VIBR .0, 0.00200 = C(8) TO O(6) 
+VIBR .0, 0.00500 = O(3) TO C(9) 
+VIBR .0, 0.00500 = O(6) TO C(9) 
+VIBR .0, 0.00500 = O(6) TO O(3) 
+VIBR .0, 0.00200 = C(9) TO C(10) 
+VIBR .0, 0.00200 = C(9) TO C(11) 
+VIBR .0, 0.00500 = C(10) TO C(8) 
+VIBR .0, 0.00500 = C(11) TO C(8) 
+VIBR .0, 0.00500 = C(11) TO C(10) 
+VIBR .0, 0.00200 = C(10) TO C(10,4,3,-1,1,-1) 
+VIBR .0, 0.00500 = C(9) TO C(10,4,3,-1,1,-1) 
+VIBR .0, 0.00200 = C(11) TO C(11,4,3,-1,1,-1) 
+VIBR .0, 0.00500 = C(9) TO C(11,4,3,-1,1,-1) 
+VIBR .0, 0.00200 = C(12) TO O(4) 
+VIBR .0, 0.00200 = C(12) TO O(5) 
+VIBR .0, 0.00500 = O(4) TO C(5,2,3,0,0,-1) 
+VIBR .0, 0.00500 = O(5) TO C(5,2,3,0,0,-1) 
+VIBR .0, 0.00500 = O(5) TO O(4) 
+REM   DELU   END (DO NOT REMOVE THIS LINE) 
+REM   THERMSIM   START (DO NOT REMOVE THIS LINE) 
+U(IJ) .0, 0.04000 = C(1) TO C(2) 
+U(IJ) .0, 0.08000 = C(1) TO O(1) 
+U(IJ) .0, 0.08000 = C(1) TO O(2) 
+U(IJ) .0, 0.04000 = C(2) TO C(3) 
+U(IJ) .0, 0.04000 = C(2) TO C(7) 
+U(IJ) .0, 0.04000 = C(3) TO C(4) 
+U(IJ) .0, 0.04000 = C(4) TO C(5) 
+U(IJ) .0, 0.04000 = C(5) TO C(12,2,4,0,-1) 
+U(IJ) .0, 0.04000 = C(5) TO C(6) 
+U(IJ) .0, 0.04000 = C(6) TO C(7) 
+U(IJ) .0, 0.04000 = C(8) TO C(9) 
+U(IJ) .0, 0.08000 = C(8) TO O(3) 
+U(IJ) .0, 0.08000 = C(8) TO O(6) 
+U(IJ) .0, 0.04000 = C(9) TO C(10) 
+U(IJ) .0, 0.04000 = C(9) TO C(11) 
+U(IJ) .0, 0.04000 = C(10) TO C(10,4,3,-1,1,-1) 
+U(IJ) .0, 0.04000 = C(11) TO C(11,4,3,-1,1,-1) 
+U(IJ) .0, 0.08000 = C(12) TO O(4) 
+U(IJ) .0, 0.08000 = C(12) TO O(5) 
+VIBR .0, 0.00200 = O(41) TO N(4) 
+VIBR .0, 0.00200 = O(42) TO N(4) 
+VIBR .0, 0.00200 = O(71) TO N(7) 
+VIBR .0, 0.00200 = O(72) TO N(7) 
+VIBR .0, 0.00200 = O(101) TO N(10) 
+VIBR .0, 0.00200 = O(102) TO N(10) 
+VIBR .0, 0.00500 = O(42) TO O(41) 
+VIBR .0, 0.00500 = O(72) TO O(71) 
+VIBR .0, 0.00500 = O(101) TO O(102) 
+REM   DELU   END (DO NOT REMOVE THIS LINE) 
+REM   THERMSIM   START (DO NOT REMOVE THIS LINE) 
+U(IJ) .0, 0.08000 = O(41) TO N(4) 
+U(IJ) .0, 0.08000 = O(42) TO N(4) 
+U(IJ) .0, 0.08000 = O(71) TO N(7) 
+U(IJ) .0, 0.08000 = O(72) TO N(7) 
+U(IJ) .0, 0.08000 = O(101) TO N(10) 
+U(IJ) .0, 0.08000 = O(102) TO N(10) 
+REM   THERMSIM   END (DO NOT REMOVE THIS LINE) 
+REM   THERMSIM   END (DO NOT REMOV 
+REM   HREST   START (DO NOT REMOVE THIS LINE) 
+REM   HREST   END (DO NOT REMOVE THIS LINE) 
+END                                                                             
+;
+
+# Manually omitted reflections
+
+loop_
+_oxford_refln_omitted_index_h
+_oxford_refln_omitted_index_k
+_oxford_refln_omitted_index_l
+_oxford_refln_omitted_flag
+_oxford_refln_omitted_details
+0 14 -2 x .
+3 21 -1 x .
+1 15 -1 x .
+1 23 -3 x .
+1 19 -3 x .
+2 16 0 x .
+1 23 -5 x .
+1 17 -1 x .
+2 24 -2 x .
+3 27 -3 x .
+3 25 -5 x .
+1 21 -3 x .
+1 13 -1 x .
+10 6 4 x .
+4 28 -2 x .
+5 29 -3 x .
+9 27 3 x .
+12 14 4 x .
+15 15 3 x .
+11 7 3 x .
+13 21 1 x .
+0 16 -4 x .
+1 17 -3 x .
+12 8 4 x .
+11 11 3 x .
+13 19 3 x .
+15 17 3 x .
+13 19 3 x .
+11 9 3 x .
+5 27 -1 x .
+0 18 -6 x .
+2 22 -2 x .
+14 14 4 x .
+3 21 5 x .
+4 26 -2 x .
+13 15 3 x .
+5 25 5 x .
+13 11 5 x .
+14 16 4 x .
+12 10 -6 x .
+16 18 -2 x .
+11 19 5 x .
+12 20 4 x .
+9 5 3 x .
+3 23 -1 x .

@@ -1,0 +1,253 @@
+data_CdMOF+CO2_publ
+_audit_creation_date              2017-07-19T14:47
+_audit_creation_method            'from EXP file using GSAS2CIF'
+_chemical_formula_sum             'C23.72 H18 Cd N4 O7.45'
+_chemical_formula_weight          590.67
+loop_
+  _atom_type_symbol
+  _atom_type_number_in_cell
+  _atom_type_scat_dispersion_real
+  _atom_type_scat_dispersion_imag
+  _atom_type_scat_Cromer_Mann_a1
+  _atom_type_scat_Cromer_Mann_a2
+  _atom_type_scat_Cromer_Mann_a3
+  _atom_type_scat_Cromer_Mann_a4
+  _atom_type_scat_Cromer_Mann_b1
+  _atom_type_scat_Cromer_Mann_b2
+  _atom_type_scat_Cromer_Mann_b3
+  _atom_type_scat_Cromer_Mann_b4
+  _atom_type_scat_Cromer_Mann_c
+  _atom_type_scat_source
+ Cd 4.0 0.000 0.000 19.2214 0.59460 17.6444 6.90890 4.46100 24.7008 1.60290
+ 87.4825 5.06940 International_Tables_Vol_C
+ C 94.894 0.000 0.000 2.31000 20.8439 1.02000 10.2075 1.58860 0.56870 0.86500
+ 51.6512 0.21560 International_Tables_Vol_C
+ O 29.788 0.000 0.000 3.04850 13.2771 2.28680 5.70110 1.54630 0.32390 0.86700
+ 32.9089 0.25080 International_Tables_Vol_C
+ H 72.0 0.000 0.000 0.49300 10.5109 0.32291 26.1257 0.14019 3.14236 0.04081
+ 57.7997 0.00304 International_Tables_Vol_C
+ N 16.0 0.000 0.000 12.2126 0.00570 3.13220 9.89330 2.01250 28.9975 1.16630
+ 0.58260 -11.529 International_Tables_Vol_C
+
+#--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--eof--#
+loop_
+  _space_group_symop_id
+  _space_group_symop_operation_xyz
+ 1 +x,+y,+z
+ 2 -y+1/2,+x+1/2,+z
+ 3 -x,-y,+z
+ 4 +y+1/2,-x+1/2,+z
+ 5 -x+1/2,+y+1/2,-z
+ 6 -y,-x,-z
+ 7 +x+1/2,-y+1/2,-z
+ 8 +y,+x,-z
+
+_symmetry_cell_setting            tetragonal
+_symmetry_space_group_name_H-M    'P 4 21 2'
+_cell_length_a                    18.6593(24)
+_cell_length_b                    18.6593
+_cell_length_c                    8.2499(10)
+_cell_angle_alpha                 90.0
+_cell_angle_beta                  90.0
+_cell_angle_gamma                 90.0
+_cell_volume                      2872.4(9)
+_cell_formula_units_Z             4
+_cell_measurement_temperature     298
+_exptl_absorpt_correction_T_max   1.00000
+_exptl_absorpt_correction_T_min   1.00000
+_diffrn_ambient_temperature       298
+_diffrn_measurement_device_type   Bruker
+_diffrn_radiation_probe           x-ray
+_diffrn_radiation_type            'Cu K\a'
+_diffrn_radiation_wavelength      1.5418
+_diffrn_radiation_wavelength_wt   1.00
+_reflns_d_resolution_high         2.263
+_reflns_d_resolution_low          13.194
+_reflns_limit_h_max               8
+_reflns_limit_h_min               0
+_reflns_limit_k_max               5
+_reflns_limit_k_min               0
+_reflns_limit_l_max               3
+_reflns_limit_l_min               0
+_reflns_number_total              195
+_computing_structure_refinement   GSAS
+_refine_ls_goodness_of_fit_all    1.11
+_refine_ls_matrix_type            full
+_refine_ls_number_parameters      17
+_refine_ls_number_restraints      0
+_refine_ls_R_Fsqd_factor          0.09229
+_refine_ls_shift/su_max           0.04
+_refine_ls_shift/su_mean          0.02
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  _atom_site_thermal_displace_type
+  _atom_site_U_iso_or_equiv
+  _atom_site_symmetry_multiplicity
+ Cd Cd1 0.26530(29) 0.26530(29) 0.5 1.0 Uiso 0.025 4
+ O O2 0.301406(31 0.25738(31) 0.2450(4) 1.0 Uiso 0.025 8
+ O O3 0.39471(16) 0.2609(5) 0.41562(16) 1.0 Uiso 0.025 8
+ N N15 0.14947(23) 0.2857(6) 0.4525(13) 1.0 Uiso 0.025 8
+ N N16 0.05588(16) 0.2992(11) 0.2917(19) 1.0 Uiso 0.025 8
+ C C4 0.49137(16) 0.23306(32) 0.1555(8) 1.0 Uiso 0.025 8
+ H H9 0.51181(9) 0.2303(5) 0.2794(9) 1.0 Uiso 0.025 8
+ C C5 0.41799(16) 0.24537(34) 0.13109(32) 1.0 Uiso 0.025 8
+ C C6 0.36934(20) 0.2555(4) 0.2734(4) 1.0 Uiso 0.025 8
+ C C7 0.53671(30) 0.2237(6) 0.0229(11) 1.0 Uiso 0.025 8
+ H H8 0.59369(31) 0.2126(6) 0.0400(14) 1.0 Uiso 0.025 8
+ C C10 0.39023(33) 0.2483(9) -0.02706(16) 1.0 Uiso 0.025 8
+ H H12 0.33346(35) 0.2592(11) -0.04583(21) 1.0 Uiso 0.025 8
+ C C11 0.4352(5) 0.2400(12) -0.1606(4) 1.0 Uiso 0.025 8
+ H H13 0.4149(6) 0.2444(16) -0.28446(31) 1.0 Uiso 0.025 8
+ C C14 0.5083(5) 0.2279(10) -0.1342(9) 1.0 Uiso 0.025 8
+ C C17 0.1055(4) 0.3382(7) 0.5173(20) 1.0 Uiso 0.025 8
+ H H21 0.1197(6) 0.3663(8) 0.6280(22) 1.0 Uiso 0.025 8
+ C C18 0.0467(4) 0.3467(9) 0.4201(23) 1.0 Uiso 0.025 8
+ H H22 -0.0007(5) 0.3803(10) 0.4281(29) 1.0 Uiso 0.025 8
+ C C19 0.11854(6) 0.2627(8) 0.3164(14) 1.0 Uiso 0.025 8
+ C C20 0.14640(20) 0.2048(9) 0.2098(15) 1.0 Uiso 0.025 8
+ H H23 0.10244(32) 0.1772(12) 0.1471(19) 1.0 Uiso 0.025 8
+ H H24 0.18351(20) 0.2267(10) 0.1188(11) 1.0 Uiso 0.025 8
+ H H25 0.17680(32) 0.1663(7) 0.2834(17) 1.0 Uiso 0.025 8
+ O O27 0.0 0.5 0.14299 0.824(25) Uiso 0.025 2
+ O O28 0.0 0.5 -0.14299 0.824(25) Uiso 0.025 2
+ C C26 0.0 0.5 0.0 0.824(25) Uiso 0.025 2
+ O O30 0.5802(29) 0.5511(29) 0.690(21) 0.366(15) Uiso 0.025 8
+ O O31 0.6162(29) 0.5371(29) 0.419(21) 0.366(15) Uiso 0.025 8
+ C C29 0.5992(29) 0.5451(29) 0.555(21) 0.366(15) Uiso 0.025 8
+ O O33 0.4113(28) 0.514(5) 1.031(19) 0.290(16) Uiso 0.025 8
+ O O34 0.4313(28) 0.416(5) 0.856(19) 0.290(16) Uiso 0.025 8
+ C C32 0.4203(28) 0.465(5) 0.943(19) 0.290(16) Uiso 0.025 8
+
+loop_
+  _geom_bond_atom_site_label_1
+  _geom_bond_atom_site_label_2
+  _geom_bond_distance
+  _geom_bond_site_symmetry_1
+  _geom_bond_site_symmetry_2
+  _geom_bond_publ_flag
+ Cd1 O2 2.2137(32) . 1_555 N
+ Cd1 O2 2.2137(32) . 8_556 N
+ Cd1 O3 2.514(7) . 8_556 N
+ Cd1 O3 2.514(7) . 1_555 N
+ Cd1 N15 2.229(8) . 8_556 N
+ Cd1 N15 2.229(8) . 1_555 N
+ N15 C17 1.38597(15) . 1_555 N
+ N15 C19 1.33372(13) . 1_555 N
+ N16 C18 1.39206(13) . 1_555 N
+ N16 C19 1.36851(17) . 1_555 N
+ C4 H9 1.09211(12) . 1_555 N
+ C4 C7 1.39401(13) . 1_555 N
+ C5 C4 1.40303(17) . 1_555 N
+ C5 C10 1.40481(15) . 1_555 N
+ C6 O2 1.28957(16) . 1_555 N
+ C6 O3 1.26902(14) . 1_555 N
+ C6 C5 1.49630(14) . 1_555 N
+ C7 C4 1.39401(13) . 1_555 N
+ C7 H8 1.09208(14) . 1_555 N
+ C7 C14 1.40225(15) . 1_555 N
+ C10 H12 1.09003(13) . 1_555 N
+ C10 C11 1.39413(13) . 1_555 N
+ C11 H13 1.09309(12) . 1_555 N
+ C11 C14 1.39872(17) . 1_555 N
+ C14 N16 1.653(18) . 7_555 N
+ C14 C7 1.40225(15) . 1_555 N
+ C17 H21 1.08511(10) . 1_555 N
+ C17 C18 1.36823(13) . 1_555 N
+ C18 N16 1.39206(13) . 1_555 N
+ C18 C17 1.36823(13) . 1_555 N
+ C18 H22 1.08532(14) . 1_555 N
+ C19 C20 1.48621(14) . 1_555 N
+ C20 H23 1.09885(11) . 1_555 N
+ C20 H24 1.09926(10) . 1_555 N
+ C20 H25 1.09876(11) . 1_555 N
+ C26 O27 1.17970(15) . 1_555 N
+ C26 O28 1.17970(15) . 1_555 N
+ C29 O30 1.17410(13) . 1_555 N
+ C29 O31 1.17552(13) . 1_555 N
+ C32 O33 1.17940(11) . 1_555 N
+ C32 O34 1.18031(11) . 1_555 N
+
+loop_
+  _geom_angle_atom_site_label_1
+  _geom_angle_atom_site_label_2
+  _geom_angle_atom_site_label_3
+  _geom_angle
+  _geom_angle_site_symmetry_1
+  _geom_angle_site_symmetry_2
+  _geom_angle_site_symmetry_3
+  _geom_angle_publ_flag
+ O2 Cd1 O2 160.7(5) 1_555 . 8_556 N
+ O2 Cd1 N15 98.02(30) 1_555 . 1_555 N
+ O2 Cd1 N15 92.88(24) 1_555 . 8_556 N
+ O2 Cd1 N15 92.88(24) 8_556 . 1_555 N
+ O2 Cd1 N15 98.02(30) 8_556 . 8_556 N
+ N15 Cd1 N15 111.2(7) 1_555 . 8_556 N
+ Cd1 O2 C6 97.37(22) 1_555 . 1_555 N
+ Cd1 N15 C17 128.87(24) 1_555 . 1_555 N
+ Cd1 N15 C19 120.82(16) 1_555 . 1_555 N
+ C17 N15 C19 107.234(4) 1_555 . 1_555 N
+ C14 N16 C18 136.6(8) 7_455 . 1_555 N
+ C14 N16 C19 115.1(10) 7_455 . 1_555 N
+ C18 N16 C19 108.027(4) 1_555 . 1_555 N
+ C5 C4 H9 118.8747(19) 1_555 . 1_555 N
+ C5 C4 C7 120.017(6) 1_555 . 1_555 N
+ C7 C4 H9 121.103(8) 1_555 . 1_555 N
+ C4 C5 C10 119.9631(20) 1_555 . 1_555 N
+ C6 C5 C4 120.013(6) 1_555 . 1_555 N
+ C6 C5 C10 120.024(8) 1_555 . 1_555 N
+ O2 C6 O3 122.1767(16) 1_555 . 1_555 N
+ C5 C6 O2 117.197(7) 1_555 . 1_555 N
+ C5 C6 O3 120.617(8) 1_555 . 1_555 N
+ C4 C7 H8 120.881(6) 1_555 . 1_555 N
+ C4 C7 C14 119.244(9) 1_555 . 1_555 N
+ H8 C7 C14 119.8724(23) 1_555 . 1_555 N
+ C5 C10 H12 119.8261(21) 1_555 . 1_555 N
+ C5 C10 C11 120.513(8) 1_555 . 1_555 N
+ C11 C10 H12 119.611(6) 1_555 . 1_555 N
+ C10 C11 H13 121.392(8) 1_555 . 1_555 N
+ C10 C11 C14 118.786(7) 1_555 . 1_555 N
+ H13 C11 C14 119.7973(18) 1_555 . 1_555 N
+ C7 C14 N16 120.4(5) 1_555 . 7_555 N
+ C7 C14 C11 121.4613(20) 1_555 . 1_555 N
+ C11 C14 N16 116.75(33) 1_555 . 7_555 N
+ N15 C17 H21 121.3300(24) 1_555 . 1_555 N
+ N15 C17 C18 109.314(7) 1_555 . 1_555 N
+ C18 C17 H21 129.351(4) 1_555 . 1_555 N
+ N16 C18 C17 105.862(7) 1_555 . 1_555 N
+ N16 C18 H22 120.9420(25) 1_555 . 1_555 N
+ C17 C18 H22 133.187(4) 1_555 . 1_555 N
+ N15 C19 N16 109.54750(30) 1_555 . 1_555 N
+ N15 C19 C20 125.515(5) 1_555 . 1_555 N
+ N16 C19 C20 124.916(5) 1_555 . 1_555 N
+ C19 C20 H23 111.043(4) 1_555 . 1_555 N
+ C19 C20 H24 110.822(6) 1_555 . 1_555 N
+ C19 C20 H25 109.170(9) 1_555 . 1_555 N
+ H23 C20 H24 108.832(9) 1_555 . 1_555 N
+ H23 C20 H25 109.762(4) 1_555 . 1_555 N
+ H24 C20 H25 107.129(6) 1_555 . 1_555 N
+ O27 C26 O28 180.0 1_555 . 1_555 N
+ O30 C29 O31 177.3968(4) 1_555 . 1_555 N
+ O33 C32 O34 178.14560(10) 1_555 . 1_555 N
+
+_gsas_exptl_extinct_corr_T_max    1.00000
+_gsas_exptl_extinct_corr_T_min    1.00000
+_pd_calc_method                   'Rietveld Refinement'
+_pd_meas_2theta_range_inc         0.017
+_pd_meas_2theta_range_max         39.9844
+_pd_meas_2theta_range_min         4.9814
+_pd_meas_number_of_points         2060
+_pd_phase_name                    Cd_MOF_CO2
+_pd_proc_2theta_range_inc         0.017
+_pd_proc_2theta_range_max         39.89201
+_pd_proc_2theta_range_min         4.88901
+_pd_proc_info_datetime            2017-07-19T14:47:51
+_pd_proc_ls_peak_cutoff           0.01000
+_pd_proc_ls_prof_R_factor         0.0382
+_pd_proc_ls_prof_wR_expected      0.0439
+_pd_proc_ls_prof_wR_factor        0.0486
+_pd_proc_number_of_points         2060

@@ -1,0 +1,105 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_310_80_C
+_audit_block_doi                 10.5517/ccdc.csd.cc1ms19r
+_database_code_depnum_ccdc_archive 'CCDC 1512654'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1002/cssc.201601752 2017
+_audit_update_record             
+;
+2016-10-28 deposited with the CCDC.	2023-03-29 downloaded from the CCDC.
+;
+
+_chemical_name_mineral           ?CPO-27-Zn?
+_cell_length_a                   25.9238(3)
+_cell_length_b                   25.9238(3)
+_cell_length_c                   6.85124(14)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     3987.48(13)
+_symmetry_space_group_name_H-M   R-3:H
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z '
+'-x+y, -x, z '
+'-y, x-y, z '
+'y, -x+y, -z '
+'x-y, x, -z '
+'-x, -y, -z '
+'x-1/3, y+1/3, z+1/3 '
+'-x+y-1/3, -x+1/3, z+1/3 '
+'-y-1/3, x-y+1/3, z+1/3 '
+'y-1/3, -x+y+1/3, -z+1/3 '
+'x-y-1/3, x+1/3, -z+1/3 '
+'-x-1/3, -y+1/3, -z+1/3 '
+'x+1/3, y-1/3, z-1/3 '
+'-x+y+1/3, -x-1/3, z-1/3 '
+'-y+1/3, x-y-1/3, z-1/3 '
+'y+1/3, -x+y-1/3, -z-1/3 '
+'x-y+1/3, x-1/3, -z-1/3 '
+'-x+1/3, -y-1/3, -z-1/3 '
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+Zn1 Zn 18 0.35365(10) 0.38190(9) 0.3619(3) 1 0
+C2 C 18 0.0124(7) 0.5011(8) 0.807(2) 1 0.5(4)
+C3 C 18 0.0052(7) 0.5453(7) 0.879(2) 1 0.5(5)
+C4 C 18 0.0076(7) 0.4545(7) 0.921(3) 1 0.4(4)
+C6 C 18 0.0186(8) 0.5946(7) 0.735(2) 1 0.6(4)
+O8 O 18 0.0218(4) 0.4117(5) 0.8438(15) 1 1.2(3)
+O11 O 18 0.0314(5) 0.5922(5) 0.5599(16) 1 1.4(3)
+O12 O 18 0.0076(4) 0.6366(5) 0.7994(11) 1 0.4(3)
+O18 O 18 0.4186(15) 0.5618(17) 0.225(5) 0.478(12) 0
+C17 C 18 0.3794(10) 0.5111(11) 0.223(3) 0.478(12) 7.2(16)
+O16 O 18 0.3402(15) 0.4604(17) 0.221(5) 0.478(12) 0
+O19 O 18 0.316(4) 0.810(3) 0.834(16) 0.272(11) 0
+C20 C 18 0.327(3) 0.8267(17) 0.668(8) 0.272(11) 0
+O21 O 18 0.338(4) 0.843(3) 0.501(16) 0.272(11) 0
+O22 O 18 -0.04(13) 0.01(18) 0.5(4) 0.011(3) 0(15)
+C23 C 18 -0.01(12) 0.00(17) 0.5(4) 0.011(3) 0(15)
+O24 O 18 0.03(13) -0.01(18) 0.5(4) 0.011(3) 0(15)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+
+
+
+
+
+
+
+
+Zn1 0.01056 0.01177 0.0040(10) 0.0048 0.002 0.0008
+O18 0.1523 0.1593 0.4049 -0.043 0.1165 0.1191
+O16 0.0396 0.0248 0.0807 0.0136 0.0128 0.0354
+O19 0.44528 0.15017 0.27921 0.16537 -0.06446 -0.07582
+C20 0.44528 0.15017 0.27921 0.16537 -0.06446 -0.07582
+O21 0.44528 0.15017 0.27921 0.16537 -0.06446 -0.07582
