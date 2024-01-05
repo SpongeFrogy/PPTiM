@@ -29,7 +29,7 @@ If you use the PPTiM Database, please refer to the following publications.
 
 ## Contact
 
-If you have any questions, you can reach the corresponding author at the e-mail listed [here](https://physics.itmo.ru/en/personality/vladimir_shirobokov) and [here](https://physics.itmo.ru/en/personality/grigorij_karsakov).
+If you have any questions, you can reach the corresponding author at the e-mail listed [here](https://physics.itmo.ru/en/personality/vladimir_shirobokov) and [here](https://physics.itmo.ru/ru/personality/grigoriy_karsakov).
 
 ## Licensing
 
