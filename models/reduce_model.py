@@ -204,7 +204,7 @@ def load_data() -> Tuple[TensorDataset, TensorDataset]:
     
 
     path_train = "preprocessing/datasets/qmof_train.csv"
-    path_test = "preprocessing/datasets/qmof_train.csv"
+    path_test = "preprocessing/datasets/qmof_test.csv"
     train = TensorDataset(torch.tensor(pd.read_csv(
         path_train, index_col=0).values, dtype=torch.float32))
     test = TensorDataset(torch.tensor(pd.read_csv(
