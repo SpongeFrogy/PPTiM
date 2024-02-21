@@ -1,0 +1,73 @@
+index;DOI;CCDC_init;CCDC_final;Reversible;Stimuli;CIF_init;CIF_final
+1;https://doi.org/10.1038/s41467-021-24188-4;2040922;2040923;yes;solvent;initial MOF-5-C7 2040922.cif;to MOF-5(C7)_desolvated phase 2040923.cif
+2;https://doi.org/10.1038/s41557-021-00684-4;1989709;1989708;yes;solvent;initial MOF DMF@DUT-8(Ni) 1989709.cif;to DUT-8(Ni) polymorph B 1989708.cif
+3;https://doi.org/10.1038/s41586-021-03880-x;2080334;2080335;yes;T, solvent;from part_2.cif;to part_4.cif
+4;https://doi.org/10.1021/acs.inorgchem.9b03472;1961201;1961202;yes;solvent;initials MOFs 1961201.cif;final MOFs 1961202.cif
+5;https://doi.org/10.1021/acs.inorgchem.9b03472;1961203;1961201;no;solvent;initials MOFs 1961203.cif;initials MOFs 1961201.cif
+6;https://doi.org/10.1021/acs.inorgchem.9b03472;1961204;1961201;no;solvent;initials MOFs 1961204.cif;initials MOFs 1961201.cif
+7;https://doi.org/10.1039/C9DT01572H;1884102;1512654;no;solvent;from UTSA-74 1884102.cif;to MOF-74 (Zn) 1512654.cif
+8;https://doi.org/10.1039/C9DT01572H;1884101;1512654;no;solvent;from HIMS-74 1884101.cif;to MOF-74 (Zn) 1512654.cif
+9;https://doi.org/10.1002/chem.201705136;1571655;1571656;yes;solvent;initial STA-26(Zr) 1571655.cif;to STA-26(Zr)-C (changed symmetry) 1571656.cif
+10;https://doi.org/10.1021/acsami.2c09290;2084812;1524653;no;solvent;from Cu(I)-MOF-1 2084812.cif;to Cu(II)-MOF-3 1524653.cif
+11;https://doi.org/10.1021/acsami.2c09290;2084857;1524653;no;solvent;from Cu(I)Cu(II)-MOF-2 2084857.cif;to Cu(II)-MOF-3 1524653.cif
+12;https://doi.org/10.1039/c9sc04043a;1944823;1944821;yes;gas;1cp(des) MOF back to the initial1944823.cif;to 1lp MOF 1944821.cif
+13;https://doi.org/10.1039/c9sc04043a;1944820;1944822;yes;gas;initial 1cp MOF 1944820.cif;to 1np MOF 1944822.cif
+14;https://doi.org/10.1039/c5sc01796c;1052169;1052173;no;T;to 2fa' 1052169.cif;to 3fa 1052173.cif
+15;https://doi.org/10.1039/c5sc01796c;1052168;1052173;no;T;from MOF 2fa 1052168.cif;to 3fa 1052173.cif
+16;https://doi.org/10.1002/advs.201500012;1014506;1014507;yes;T;initial MOF 1014506.cif;to changed structure 1014507.cif
+17;https://doi.org/10.1021/ic200937u;804770;804771;no;solvent;from assynthesized DUT-30(Zn) 804770.cif;to DUT-30(Zn) after phase transition 804771.cif
+18;https://doi.org/10.1103/PhysRevB.101.134103;1970083;1970082;yes;T;from change Space g 250-? 1970083.cif;to 210 K same SG 1970082.cif
+19;https://doi.org/10.1039/C7CE00589J;1503701;1503702;no;T;from SION-2 1503701.cif;to SION-1 1503702.cif
+20;https://doi.org/10.1038/nature15732;1058447;1058448;yes;T;from DMF solvated Fe(bdp) 100 K 1058447.cif;to DMF solvated Fe(bdp) 298 K 1058448.cif
+21;https://doi.org/10.1038/nature15732;1058446;1058450;yes;gas;from Fe(bdp) 25C 1058446.cif;to Fe(bdp) 25C 50 bar 1058450.cif
+22;https://doi.org/10.1039/c5ce00724k;1045135;1045134;yes;solvent;2) from 9 1045135.cif;2) to 10 1045134.cif
+23;https://doi.org/10.1039/c5ce00724k;1055570;1031676;yes;solvent;1) from 6 1055570.cif;1) to 7 1031676.cif
+24;https://doi.org/10.1021/ja411934f;1021935;1021920;yes;solvent;from C2_c 1021935.cif;to Fdd2 1021920.cif
+25;https://doi.org/10.1002/anie.202202073;2105544;2109615;yes;solvent;INITIAL anie202202073-sup-0001-nku-128_298k.cif;to anie202202073-sup-0001-nku-128_thf.cif
+26;https://doi.org/10.1002/anie.202202073;2105544;2105645;yes;solvent;INITIAL anie202202073-sup-0001-nku-128_298k.cif;to anie202202073-sup-0001-nku-128_toluene.cif
+27;https://doi.org/10.1021/acs.inorgchem.1c01364;238 860;238859;yes;solvent;initial Zn-1 238860.cif;to Zn-1 with DMF 238859.cif
+28;https://doi.org/10.1039/d0fd00012d;989581;1977798;no;solvent;1) initial MnMOF-1 DMF 989581.cif;to 1-5 or 2-5) MeCn or p-Xylene solvated 1977798.cif
+29;https://doi.org/10.1039/d0fd00012d;1977803;1977798;no;solvent;1-2) from MnMOF-1 to aceton solvated 1977803.cif;to 1-5 or 2-5) MeCn or p-Xylene solvated 1977798.cif
+30;https://doi.org/10.1039/d0fd00012d;1977803;1977804;no;solvent;1-2) from MnMOF-1 to aceton solvated 1977803.cif;to 2-3) to THF solvated 1977804.cif
+31;https://doi.org/10.1039/d0fd00012d;1977803;1977799;no;solvent;1-2) from MnMOF-1 to aceton solvated 1977803.cif;to 2-6) to DEE solvated 1977799.cif
+32;https://doi.org/10.1021/jacs.5b02777;1031344;1031342;no;humidity;from Phase I 1031344.cif;to Phase II 1031342.cif
+33;https://doi.org/10.1021/acs.inorgchem.5b02874;975746;975745;yes;solvent;from as- flexMOF 975746.cif;to d- flexMOF dried 975745.cif
+34;https://doi.org/10.1016/j.jssc.2020.121236;1974527;1974529;yes;T, solvent;from (1) 1974527.cif;to (3) 1974529.cif
+35;https://doi.org/10.1016/j.saa.2018.07.019;1455983;1816056;no;solvent;initial (1) 1455983.cif;(2) to 2 by immercing first compound 1816056.cif
+36;https://doi.org/10.1002/ijch.201800061;1572717;1572714;yes;T;From b-IRMOF-9DMF 1572717.cif;To a-IRMOF-9DMF 1572714.cif
+37;https://doi.org/10.1016/j.joule.2017.09.001;975784;1555242;no;Pressure;from 975784.cif;to 1555242.cif
+38;https://doi.org/10.1039/D0TA06830F;890363;2014973;yes;T;from DUT-49(Zn) 296K 890363.cif;to DUT-49(Zn) 100K 2014973.cif
+39;https://doi.org/10.1039/D0TA06830F;1957605;2014970;yes;T;from DUT-49(Ni) 296K 1957605.cif;to DUT-49(Ni) 100K 2014970.cif
+40;https://doi.org/10.1039/D0TA06830F;1957604;2014971;yes;T;from DUT-49(Mn) 296K 1957604.cif;to DUT-49(Mn) 100K 2014971.cif
+41;https://doi.org/10.1039/D0TA06830F;890364;2014974;yes;T;from DUT-49(Co) 296 K 890364.cif;to DUT-49(Co) 100K 2014974.cif
+42;https://doi.org/10.1039/D0TA06830F;1957602;2014972;yes;T;from DUT-49(Cd) 296K 1957602.cif;to DUT-49(Cd) 100K 2014972.cif
+43;https://doi.org/10.1039/D0TA06830F;1957603;2014975;yes;T;from DUT-49(Fe) 296 K 1957603.cif;to DUT-49(Fe) 100 K2014975.cif
+44;https://doi.org/10.1039/C9TA06781G;1912199;1912233;yes;solvent;from (Co-MOF) 1912199.cif;to (Co-MOF) 1912233.cif
+45;https://doi.org/10.1039/C4CC00734D;-;-;yes;pressure;from CAU13_0GPa.cif;to CAU13_-1GPa.cif
+46;https://doi.org/10.1039/C4CC00734D;-;-;yes;pressure;from NOTT300_0GPa.cif;to NOTT300_1GPa_shear.cif
+47;https://doi.org/10.1021/ja054913a;-;-;yes;T;from ja054913a_si_001.cif;from ja054913a_si_002.cif
+48;https://doi.org/10.1021/ja054913a;-;-;yes;humidity;from ja054913a_si_002.cif;to ja054913a_si_004.cif
+49;https://doi.org/10.1021/ja500530y;-;-;no;T;from ja500530y_si_003.cif;to ja500530y_si_003.cif
+50;https://doi.org/10.1021/ja101541s;-;-;yes;solvent;from ja101541s_si_004.cif;to ja101541s_si_003.cif
+51;https://doi.org/10.1002/anie.201911632;1934734;1934735;no;T;from 1934734.cif;to 1934735.cif
+52;https://doi.org/10.1021/ic035111o;-;-;no;T;from ic035111o_si_001.cif;to ic035111o_si_002.cif
+53;https://doi.org/10.1021/ic035111o;-;-;no;solvent;from ic035111o_si_002.cif;to ic035111o_si_003.cif
+54;https://doi.org/10.1039/C6CP02530G;1041925;1041924;no;T;from 1041925.cif;to 1041924.cif
+55;https://doi.org/10.1039/C3SC52666F;935302;922086;no;T;from 935302.cif;to 922086.cif
+56;https://doi.org/10.1002/anie.202010549;1942055;2060465;no;T;from UPC-600 1942055.cif;to (1) UPC-600-373K 2060465.cif
+57;https://doi.org/10.1002/anie.201308606;924308;926445;no;T;(2) to compound 2 924308.cif;(1') to  compound 2 1' 926445.cif
+58;https://doi.org/10.1021/acs.chemmater.6b05277;636900;1492753;no;T;from (1) in 5 636900.cif;to (5) cm6b05277_si_004.cif
+59;https://doi.org/10.1021/acs.chemmater.6b05277;1515548;1536823;no;T;from (3) in 6  1515548.cif;to (6)cm6b05277_si_005.cif
+60;https://doi.org/10.1021/acs.chemmater.6b05277;1536823;1536823;no;T;from (4) in 6 1536823.cif;to (6)cm6b05277_si_005.cif
+61;https://doi.org/10.1039/C5CE01074H;1403842;1403844;yes;solvent;from (1) with DMF 1403842.cif;to compound with hexane 1403844.cif
+62;https://doi.org/10.1039/C5CE01074H;1403842;1403845;yes;solvent;from (1) with DMF 1403842.cif;to compound with methanol 1403845.cif
+63;https://doi.org/10.1039/C2CC17298D;854460;854461;no;solvent;from 2D 854460.cif;to 3D 854461.cif
+64;https://doi.org/10.1016/j.ica.2017.08.055;1483716;1483725;no;T;from (3) 1483716.cif;to (4) 1483725.cif
+65;https://doi.org/10.1002/anie.201811027;1878068;1590348;yes;T;from VMOP-+ 1878068.cif;to VMOP-+ 1590348.cif
+66;https://doi.org/10.1021/acscentsci.8b00378;1818706;1818707;yes;solvent, gas;from 1a.cif;to 1b.cif
+67;https://doi.org/10.1021/cg401583v;949420;;yes;solvent;ONLY initial for 2 949420.cif;-
+68;https://doi.org/10.1002/chem.201405395;1016635;;yes;solvent;initial 1a 1016635.cif;-
+69;https://doi.org/10.1002/chem.201405395;1016636;;yes;solvent;initial 2a 1016636.cif;-
+70;https://doi.org/10.1039/d1sc05594a;2110145;;no;solvent;initial 2110145.cif;-
+71;https://doi.org/10.1007/s12274-021-3329-8;1969911;;yes;solvent;from 1969911.cif;-
+72;https://doi.org/10.1007/s12274-021-3329-8;2007086;;yes;solvent;from 2007086.cif;-
