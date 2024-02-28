@@ -1,5 +1,3 @@
-preprocessing/qmof/data/
 catboost_info
-database/main.csv
-database/t_solvent.csv
 relaxed_structures
+resubmit.ipynb

@@ -1,36 +1,45 @@
+<div align="center">
+    <img src="ITMOF lab.png" alt="ITMOF lab logo" width="400" height="auto"/>
+</div>
+
 # Prediction of metal-organic frameworks with phase transition via machine learning
 
-## Structure of repo
+## Project Structure Overview
 
-### [preprocessing](/preprocessing/)
+### Preprocessing Directory
+The `[preprocessing](/preprocessing/)` section is dedicated to the initial data preparation stages for the Prediction of Phase Transitions in Metal-Organic Frameworks (PPTiM). It encompasses scripts crucial for downloading essential resources such as the QMOF Database, Zeo++, and MOFid, setting the foundation for further analysis and model training.
 
-Preprocessing of main dataset and QMOF
+### Models Directory
+Within the `[models](/models/)` directory, you will find the core computational models developed for this project. This includes an autoencoder designed to reduce the dimensionality of feature data, alongside classifiers tasked with predicting phase transitions in MOFs, showcasing the project's approach to leveraging machine learning for material science.
 
-### [models](/models/)
+### Database Directory
+The `[database](/database/)` directory houses the PPTiM Database, a meticulously curated collection of MOFs known to exhibit phase transitions. This database not only includes CIF files detailing the structural data of these MOFs but also features manually labeled data pertaining to their phase transitions, serving as a valuable resource for research in this domain.
 
-Models of reduce and classification used study
-
-### [database](/database/)
-
-Main database
+### Knn Prediction Directory
+The `[knn_prediction](/knn_prediction/)` directory contains the data of MOFs from the QMOF Database labaled by knn prediction, trained by PPTiM Database.
 
 ### Order of execution
-
-1. [for_zeopp](for_zeopp.py)
-2. [cif2vec_qmof](/preprocessing/cif2vec_qmof.ipynb)
-3. [cif2vec_main](cif2vec_main.ipynb)
+To navigate the project's computational pipeline effectively, follow the order of execution outlined below:
+1. [for_zeopp](for_zeopp.py) - Prepares data for Zeo++ computation.
+2. [cif2vec_qmof](/preprocessing/cif2vec_qmof.ipynb) - Processes CIF files from the QMOF Database using the cif2vec approach.
+3. [cif2vec_main](cif2vec_main.ipynb) - Processes CIF files from the PPTiM Database using the cif2vec approach.
 4. [cif2vec_t_sol](cif2vec_t_sol.ipynb)
-5. [pipeline](pipeline.ipynb)
-6. [tests](tests.ipynb)
+5. [pipeline](pipeline.ipynb) - Orchestrates the overall data processing and model training pipeline.
+6. [Figures](Figure_metrics.ipynb) - Conducts figures for metrics.
 
-## Citation
+## Acknowledgments and Citations
 
-If you use the PPTiM Database, please refer to the following publications.
+For researchers utilizing the PPTiM Database or methodologies developed within this project, please reference the associated publications.
+
+- Under review: "Prediction of Metal-Organic Frameworks With Phase Transition via Machine Learning"
+
+- Under review: "Phase Change Metal-Organic Frameworks: Current state and Application"
 
 ## Contact
 
-If you have any questions, you can reach the corresponding author at the e-mail listed [here](https://physics.itmo.ru/en/personality/vladimir_shirobokov) and [here](https://physics.itmo.ru/ru/personality/grigoriy_karsakov).
+For further information, inquiries, or interest in collaboration you can reach the corresponding author's details are available [Vladimir Shirobokov](https://physics.itmo.ru/en/personality/vladimir_shirobokov) and [Grigori Karsakov](https://physics.itmo.ru/ru/personality/grigoriy_karsakov).
 
 ## Licensing
 
-This project is licensed under the terms of the GPL-2.0 license
+This project and all associated code and data are distributed under the GPL-2.0 license
+
