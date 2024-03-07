@@ -7,16 +7,16 @@
 ## Project Structure Overview
 
 ### Preprocessing Directory
-The `[preprocessing](/preprocessing/)` section is dedicated to the initial data preparation stages for the Prediction of Phase Transitions in Metal-Organic Frameworks (PPTiM). It encompasses scripts crucial for downloading essential resources such as the QMOF Database, Zeo++, and MOFid, setting the foundation for further analysis and model training.
+The [preprocessing](/preprocessing/) section is dedicated to the initial data preparation stages for the Prediction of Phase Transitions in Metal-Organic Frameworks (PPTiM). It encompasses scripts crucial for downloading essential resources such as the QMOF Database, Zeo++, and MOFid, setting the foundation for further analysis and model training.
 
 ### Models Directory
-Within the `[models](/models/)` directory, you will find the core computational models developed for this project. This includes an autoencoder designed to reduce the dimensionality of feature data, alongside classifiers tasked with predicting phase transitions in MOFs, showcasing the project's approach to leveraging machine learning for material science.
+Within the [models](/models/) directory, you will find the core computational models developed for this project. This includes an autoencoder designed to reduce the dimensionality of feature data, alongside classifiers tasked with predicting phase transitions in MOFs, showcasing the project's approach to leveraging machine learning for material science.
 
 ### Database Directory
-The `[database](/database/)` directory houses the PPTiM Database, a meticulously curated collection of MOFs known to exhibit phase transitions. This database not only includes CIF files detailing the structural data of these MOFs but also features manually labeled data pertaining to their phase transitions, serving as a valuable resource for research in this domain.
+The [database](/database/) directory houses the PPTiM Database, a meticulously curated collection of MOFs known to exhibit phase transitions. This database not only includes CIF files detailing the structural data of these MOFs but also features manually labeled data pertaining to their phase transitions, serving as a valuable resource for research in this domain.
 
 ### Knn Prediction Directory
-The `[knn_prediction](/knn_prediction/)` directory contains the data of MOFs from the QMOF Database labaled by knn prediction, trained by PPTiM Database.
+The [knn_prediction](/knn_prediction/) directory contains the data of MOFs from the QMOF Database labaled by knn prediction, trained by PPTiM Database.
 
 ### Order of execution
 To navigate the project's computational pipeline effectively, follow the order of execution outlined below:
@@ -34,6 +34,18 @@ For researchers utilizing the PPTiM Database or methodologies developed within t
 - Under review: "Prediction of Metal-Organic Frameworks With Phase Transition via Machine Learning"
 
 - Under review: "Phase Change Metal-Organic Frameworks: Current state and Application"
+
+## Installation
+
+To install the required dependencies for this project, run the following command:
+
+conda env create -f environment.yml
+
+Prerequisites:
+- Python 3.10
+- CUDA Toolkit 12.1 (for torch)
+
+If you do not have the CUDA Toolkit installed, you can install the CPU version of PyTorch.
 
 ## Contact
 

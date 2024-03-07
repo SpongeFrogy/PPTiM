@@ -1,9 +1,0 @@
-catboost==1.2.2
-hyperopt==0.2.7
-matplotlib==3.7.1
-numpy==1.23.5
-pandas==1.5.3
-scikit_learn==1.2.2
-torch==2.1.1+cu118
-torchmetrics==0.11.4
-tqdm==4.65.0
