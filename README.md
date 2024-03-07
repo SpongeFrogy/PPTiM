@@ -47,6 +47,13 @@ Prerequisites:
 
 If you do not have the CUDA Toolkit installed, you can install the CPU version of PyTorch.
 
+### Download QMOF Database
+
+You can download the QMOF Database from the following link: [QMOF Database](https://figshare.com/articles/dataset/QMOF_Database/13147324)
+
+After downloading the QMOF Database, you should extract the folders from archive and place 'relaxed_structures' in this project's root directory.
+
+
 ## Contact
 
 For further information, inquiries, or interest in collaboration you can reach the corresponding author's details are available [Vladimir Shirobokov](https://physics.itmo.ru/en/personality/vladimir_shirobokov) and [Grigori Karsakov](https://physics.itmo.ru/ru/personality/grigoriy_karsakov).
