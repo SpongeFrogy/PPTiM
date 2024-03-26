@@ -31,7 +31,9 @@ To navigate the project's computational pipeline effectively, follow the order o
 
 For researchers utilizing the PPTiM Database or methodologies developed within this project, please reference the associated publications.
 
-- Under review: "Prediction of Metal-Organic Frameworks With Phase Transition via Machine Learning"
+- G.V. Karsakov, V.P. Shirobokov, A. Kulakova, V.A. Milichko. "Prediction of Metal–Organic Frameworks with Phase Transition via Machine Learning",
+_The Journal of Physical Chemistry Letters_ **2024** 15 (11), 3089-3095
+DOI: 10.1021/acs.jpclett.3c03639
 
 - Under review: "Phase Change Metal-Organic Frameworks: Current state and Application"
 
