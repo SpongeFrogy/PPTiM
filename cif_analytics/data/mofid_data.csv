@@ -1,0 +1,129 @@
+,node,linker,cat,mofkey
+ed977801beee40131ed6c96cf7ee0193,['[Zn]'],"['N1=CN(CC1)CN1[CH][N]C=C1', '[CH]1[N][CH]N([CH]1)Cn1cncc1', '[C]1=CN(C=N1)Cn1cncc1', '[O-]C(=O)C1=C[N]N([CH]1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', '[O-]C(=O)c1c[n-]n(c1)N1C=CC(=C2C1=NO[N]2)n1[n-]cc(c1)C(=O)[O-]', '[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', '[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)N(=O)=O', 'c1ncn(c1)Cn1cncc1']",1,Zn.CNLDCJYNBWCRFO.FEEIZMXTBNIYFN.LYBWGVWLQBVNJA.OKYMZBDYERWFES.PUIKXYZZMQTLNY.UYHHYFDKCLECEJ.WSEYTISNNMDFBH.MOFkey-v1
+2a8f3de34fa7366ca48379f94dac4386,['[Zn][O]([Zn][O]([Zn])([Zn])[Zn])([Zn])[Zn]'],"['[O-]C(=O)c1ccc(c(c1[CH])[CH])C(=O)[O-]', '[O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]']",0,Zn.ABMFBCRYHDZLRD.LPFAHSLZEGHMAA.MOFkey-v1
+6c0bb3be98debfbcc4849941157d0ef7,['[Cd]'],"['N1=C[N]N([CH]1)c1ccc(c2c1nsn2)N1[N]C=N[CH]1', '[O-]C(=O)c1ccc(cc1)C(=O)[O-]']",1,Cd.BMECAHBIWZEJHK.KKEYFWRCBNTPAC.MOFkey-v1
+636ad7bfd6a7feec37e3aaf0149fdde7,['[Cd]'],"['O=[C]OO[C][C][C][C][C]C(C([CH][C]C(=O)[O-])[C])[CH]', 'c1ncn(c1)Cn1cncc1']",1,Cd.CKJODEXCHAWTBW.UYHHYFDKCLECEJ.MOFkey-v1
+91f8e52ddfef8c3b4a5594e5520a3f47,['[Mn]'],"['[O-]C(=O)c1nnn(c1)C1=CN=N[CH]1', '[O-]C(=O)c1nnn(c1)C1=C[N]N=C1']",0,Mn.ALBULQBFRIGUAW.MOFkey-v1
+3d3b86ec5015e669102e9fd7d7e1f03f,['[Zn]'],['[O-]C(=O)c1ccc(cc1)C(=O)[O-]'],1,Zn.KKEYFWRCBNTPAC.MOFkey-v1
+b920448ad95f18b8d7a28d89d84fd778,['[O][Cd]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],0,Cd.VUFFPGVFHRVLGA.MOFkey-v1
+19e12ded00bf6ca6e8bcc777bdb61bc7,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.CNLDCJYNBWCRFO.XQTCTIGKOKAWTO.MOFkey-v1
+386beb547983d357c30ff5ca37a38791,['[OH2][Eu][OH2]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],0,Eu.VUFFPGVFHRVLGA.MOFkey-v1
+e80fb54ad5770678e0094be5a6c3abd5,['[OH2][Eu][OH2]'],['[O-]C(=O)c1cn(nn1)c1[n-][nH]c(c1)C'],1,Eu.CUMMBOKIPLAOLQ.MOFkey-v1
+59b7436270ce0376b03bec84f6e72a30,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1n[se]n2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.PNYVWVHFQUUNLO.XQTCTIGKOKAWTO.MOFkey-v1
+583122522669d0fa229b01a40a449581,['[OH2][Cd][OH2]'],['s1nc2c(n1)c(ccc2n1cncc1)n1cncc1'],1,Cd.XQTCTIGKOKAWTO.MOFkey-v1
+c459d4f5af6144471154e5bc6cd5b4d3,['[Co][Co]'],['[O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]'],1,Co.RXOHFPCZGPKIRD.MOFkey-v1
+7a9fab05cc49db98f6f0e8f77c26f368,['[Cd]'],"['[O-]C(=O)C1CCC(CC1)C(=O)[O-]', 'n1ccn(c1)c1cc2nonc2c(c1)n1ccnc1']",0,Cd.PXGZQGDTEZPERC.XTHPHHINDWDQSY.MOFkey-v1
+a56858f73cf9dd1e9041cd51a011d05c,['O[Zn]'],['[O-]C(=O)c1ccc(s1)C(=O)[O-]'],0,Zn.YCGAZNXXGKTASZ.MOFkey-v1
+d1494e8506ba41d89117222f5fde4b4f,['[Cd]'],"['[O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Cd.SQJQLYOMPSJVQS.XQTCTIGKOKAWTO.MOFkey-v1
+821b7054efa92e698912933e1fc67f94,"['O[Gd](O)(O)O', 'O[Gd]O']",['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]'],0,Gd.CNLDCJYNBWCRFO.MOFkey-v1
+edf7caa7d500bfc80874598a41c188ba,['[Zn][Zn]'],['[O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]'],1,Zn.RXOHFPCZGPKIRD.MOFkey-v1
+218277a7fc1f7bc55308322ba6758095,['O[Zn]'],['[O-]C(=O)c1ccc(s1)C(=O)[O-]'],1,Zn.YCGAZNXXGKTASZ.MOFkey-v1
+da1de09efdc4c5c96ae5d881d317a4bf,['[Zn]'],"['[O-]C(=O)C12CC3CC(C1)CC(C2)(C3)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.PAVQGHWQOQZQEH.XQTCTIGKOKAWTO.MOFkey-v1
+6836209d1a2c959d2f731753851c851f,['[Zn][Zn]'],"['[C]1[N][C]N([N]1)C1=C2[N]O[N]C2=[C]C(=N1)N1[C]=N[C]=N1', '[C]1[N][C]N([N]1)C1=NC(=[C]C2=C1[N]O[N]2)N1[C]=N[C]=N1', '[O-]C(=O)C1=N[C]C(=[C][C]1)C(=O)[O-]', '[O-]C(=O)C1=[C][C]=C([C]=[C]1)C(=O)[O-]']",1,Zn.FGWMAGFZGYPITC.RHFSRTQXETUEBB.VTCOHLHZJYJDRK.MOFkey-v1
+05fc53e5c7b6d2567637d2f5ba15b142,['[OH2][Zn]'],['[O-]C(=O)c1ccc(s1)C(=O)[O-]'],0,Zn.YCGAZNXXGKTASZ.MOFkey-v1
+528d708614ae3f1df5258b8625f858e5,['[OH2][Cd]'],"['[O-]C(=O)C1CCC(CC1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Cd.PXGZQGDTEZPERC.XQTCTIGKOKAWTO.MOFkey-v1
+a046742a3a6e5ffe433a59fd1e9a7c2c,['[Zn]'],['c1ncn(c1)Cn1cncc1'],3,Zn.UYHHYFDKCLECEJ.MOFkey-v1
+7b50eafdea931f46619e132f85a75578,['[OH2][Eu]([OH2])[OH2]'],['[O-]C(=O)c1nnn(c1)c1[n-][nH]cc1'],0,Eu.WIIAKYAAFXCJDN.MOFkey-v1
+303a29e274cc4b2f28c54e4987a59787,['*'],[],,
+f21f0642cdb91df0ced81b1113089363,"['[O][Ce](O)(O)O', '[O][Ce]O']",['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]'],0,Ce.CNLDCJYNBWCRFO.MOFkey-v1
+095f29848bedddc819af36831d280e33,['[Zn]'],"['[O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Zn.ABMFBCRYHDZLRD.XQTCTIGKOKAWTO.MOFkey-v1
+5fbd0e710ab3d73c72c105e92e7c3ca7,['[Zn]'],"['[O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Zn.ABMFBCRYHDZLRD.XQTCTIGKOKAWTO.MOFkey-v1
+2219cb39b4278350b1f46fc97ad86484,['*'],[],,
+96a31278b2997be211cb456745f96527,['*'],[],,
+69e186562c9d5d6a1a1535fc3787b6be,['[Zn]'],"['[O-]C(=O)c1cccc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Zn.QQVIHTHCMHWDBS.XQTCTIGKOKAWTO.MOFkey-v1
+fbd593784b480cbff0bd9ba909dd2f9e,['[Zn]'],"['[O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.NEQFBGHQPUXOFH.XQTCTIGKOKAWTO.MOFkey-v1
+f09f1b56a897de2c2b0270d53f786bbc,['[Cd]'],"['[C]N1[N]O[N][C]=C([CH]C(=[C][N]O1)n1ccnc1)n1ccnc1', '[O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]']",0,Cd.ATASAMPIVLRKLP.RXOHFPCZGPKIRD.MOFkey-v1
+a096024b09510b3f2e351e2d257a1de4,['[Zn]'],"['[C]1=[C]N([C]=N1)C1=[C][C]=C(c2c1nsn2)N1[C]=N[C]=[C]1', '[O-]C(=O)C1=[C][C]=C([C]=[C]1)S(=O)(=O)C1=[C][C]=C([C]=[C]1)C(=O)[O-]']",1,Zn.FZGFSNYSXGDQTH.SCZFAWLKMAIEHW.MOFkey-v1
+5bc106931e852818008cedb54af1382b,['[Zn]'],"['N1=CN2N([CH]1)[C]=Cc1nsnc1[C]N1N([C]=Cc3c([C]2)nsn3)[CH]N=C1', '[O-]C(=O)c1ccc(cc1)C(=O)[O-]']",0,Zn.KKEYFWRCBNTPAC.YXAFHLJFGNXTLA.MOFkey-v1
+5c770bf0c8835aecaa850ee087b9f62d,['[Zn]'],['[O-]C(=O)c1cn(nn1)c1[n-][nH]c(c1)C'],1,Zn.CUMMBOKIPLAOLQ.MOFkey-v1
+0de7676cf802764a602a2785a2e08331,[],[],,NA.MISSING_LINKERS.MOFkey-v1
+7dce4a8dd643623a20ee6311ab2e10f0,['O[Cd]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1n[se]n2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Cd.PNYVWVHFQUUNLO.XQTCTIGKOKAWTO.MOFkey-v1
+06da0e697e7631691d54cc2e0d1774c0,"['[OH2][Zn]', '[Zn]']",['[O-]C(=O)c1ccc(cc1)C(=O)[O-]'],1,Zn.KKEYFWRCBNTPAC.MOFkey-v1
+4bc28eb9490092aa0ba55a6ad5f5d245,['[Zn]'],['[O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]'],0,Zn.NEQFBGHQPUXOFH.MOFkey-v1
+729312b7df716f54981d7eaa44792575,['[Co]'],"['[O-]C(=O)c1ccc(cc1)C(=O)[O-]', '[S][S]1[N]c2c([N]1)c(ccc2n1ncnc1)n1ncnc1']",0,Co.KKEYFWRCBNTPAC.QGDUMCCVXLHUAL.MOFkey-v1
+e9573fa586c7a9af4f1099fb8ca294b2,['*'],[],,
+3218d5936a07e6783a0198b20f48cc41,['[Zn]'],['[O-]C(=O)c1c(N)c(N)c(c(c1N)N)C(=O)[O-]'],0,Zn.HLYNCYAOLRANJS.MOFkey-v1
+1c35a926cb15730ef17420c1e5f6680d,['[Zn]'],"['[O-]C(=O)C1=CN2N([CH]1)[C]c1nonc1C=[C]N1N(c3cc2cc2nonc32)[CH]C(=C1)C(=O)[O-]', 'c1ncn(c1)Cn1cncc1']",0,Zn.QBZOGKUZXVZPJH.UYHHYFDKCLECEJ.MOFkey-v1
+9346239f75a2a334edf7b161e14aeef5,['[OH2][Cd]'],"['N1=C[N]N([CH]1)c1cc2nonc2c(c1)N1[N]C=N[CH]1', '[O-]C(=O)c1ccc(s1)C(=O)[O-]']",1,Cd.QPBCZALWIVTQAS.YCGAZNXXGKTASZ.MOFkey-v1
+48f9ead44f9bc19afcb3147dd4dfe990,"['[O][Zn]', '[Zn]']","['[C]1[N][C]N([C]1)C1=C2[N]ON3[C]2C(=NO3)C(=[C]1)N1[C][N][C][C]1', '[C]1[N][C]N([C]1)[C]1[C]=C(N2[C][N][C][C]2)C2=C3C1=NON3O[N]2', '[C]1[N][C]N([C]1)[C]1[C][C]([C]c2c1non2)N1[C]=N[C]=[C]1', '[N]1O[N][C]=C([C][C]([C]=[C]1)N1[C]=N[C]=[C]1)N1[C][N][C][C]1', '[O-]C(=O)[C]1[C][C]=C(S1)C(=O)[O-]', '[O-]C(=O)[C]1[C][C][C](S1)C(=O)[O-]']",1,Zn.CNQXKHDOFCLEOA.LUTSYJSWSFYHLT.WNMHAGSWPQZLDL.ZOTOWRYEGMMIPK.MOFkey-v1
+6f7223393a10a620a1449f3cba830d43,['[Cd]'],"['[O-]C(=O)c1cccc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Cd.QQVIHTHCMHWDBS.XQTCTIGKOKAWTO.MOFkey-v1
+3fc1abafbefb4d3b742b9ca94c2c454d,"['O[Eu]', 'O[Eu][OH2]', '[OH2][Eu]']",['[O-]C(=O)c1c[n-]n(c1)Cn1[n-]cc(c1)C(=O)[O-]'],0,Eu.DOJKRBBGCYWDCC.MOFkey-v1
+b9af5ef36ea1a5c04c70b1769492ed84,['[Zn]'],"['[O-]C(=O)c1cccc(c1)C(=O)[O-]', 'n1ccn(c1)c1cc2nonc2c(c1)n1ccnc1']",1,Zn.QQVIHTHCMHWDBS.XTHPHHINDWDQSY.MOFkey-v1
+aaf092a5ee04ae8f8d5f19327cf5f925,['[O][La][O]'],"['[N]C(=O)C1=[C][C]=C([C]1)C1=[C][C]=C(C2=[C]N=[C][C]12)N1N=[C]C(=[C]1)C(=O)[O-]', '[O-]C(=O)C1=[C]N(N=[C]1)C1=[C][C]=C(C2=[C]N=[C][C]12)C1=[C]C(=[C][C]1)C(=O)[N]', '[O-]C(=O)C1=[C][C](N=[C]1)C1=[C][C]=C(C2=[C]N=[C][C]12)C1=[C][C]=C([C]1)C(=O)[O-]', '[O-]C(=O)C1=[C][C]C(=[C]1)C1=[C][C]=C(C2=[C]N=[C][C]12)C1=N[C]C(=[C]1)C(=O)[O-]']",0,La.YDGDVUOWAUBATQ.YYJMLCRTFIMOBO.MOFkey-v1
+0ca9173e5ebc8bcea117cdc259d89e2e,['[Zn]'],"['N1=C[N]N([CH]1)c1cc2nonc2c(c1)N1[N]C=N[CH]1', '[O-]C(=O)c1ccc(cc1)C(=O)[O-]']",1,Zn.KKEYFWRCBNTPAC.QPBCZALWIVTQAS.MOFkey-v1
+6f822b2cb88a105dfa63d23049732366,['[O][La](O)(O)O'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1n[se]n2)n1[n-]cc(c1)C(=O)O', '[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1n[se]n2)n1[n-]cc(c1)C(=O)[O-]']",3,La.PNYVWVHFQUUNLO.MOFkey-v1
+0bf0db4126effc08c7fa5830590b3426,['[Co]'],"['C(=[C]n1cncc1)C=[C]n1cncc1', '[O-]C(=O)c1ccc(cc1)C(=O)[O-]']",1,Co.BESUDMSNJINHTP.KKEYFWRCBNTPAC.MOFkey-v1
+2c0508e98644b254411132802601d46b,['[Zn]'],['s1nc2c(n1)c(ccc2n1cncc1)n1cncc1'],3,Zn.XQTCTIGKOKAWTO.MOFkey-v1
+fd5fe97be7a32361285bc00a61100a77,[],[],,NA.MISSING_LINKERS.MOFkey-v1
+9a94e1176294191e6ca613e7f25e22cb,['[Eu]'],"['[O-]C(=O)c1nnn(c1)C1=CN=N[CH]1', '[O-]C(=O)c1nnn(c1)C1=C[N]N=C1']",0,Eu.ALBULQBFRIGUAW.MOFkey-v1
+f54df85941e0a87fd266b478a65bcfeb,['[Zn]'],"['[O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Zn.NEQFBGHQPUXOFH.XQTCTIGKOKAWTO.MOFkey-v1
+4f89e6e2fe55f0e62e38cde8caa7e7c3,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.VUFFPGVFHRVLGA.XQTCTIGKOKAWTO.MOFkey-v1
+4cf97bd7aff5eb913b776989558e0aae,"['[O][Tm]([O])[O]', '[O][Tm][O]']","['[O-]C(=O)C1=[C]N(N=[C]1)C1=[C][C]=C(c2c1non2)N1N=[C]C(=[C]1)C(=O)[O-]', '[O-]C(=O)C1=[C]N(N=[C]1)N1[C]=[C]N(c2c1non2)N1N=[C]C(=[C]1)C(=O)[O-]']",0,Tm.DUCNIQCALSXBBB.KIPYSFOCHLLTMT.MOFkey-v1
+a652e7028232782aff67e19a8bf9aef8,['[Cd]'],"['[O-]C(=O)c1cccc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Cd.QQVIHTHCMHWDBS.XQTCTIGKOKAWTO.MOFkey-v1
+13be1de9e64b7bc436c1125f33b571f2,['*'],[],,
+5a395f959b3368f251d340afba9372f5,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)c1cc2nonc2c(c1)n1[n-]cc(c1)C(=O)[O-]', '[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', 'c1ncn(c1)Cn1cncc1']",0,Zn.CNLDCJYNBWCRFO.QWIIICYVLHUMJP.UYHHYFDKCLECEJ.MOFkey-v1
+9743328b2909b37502d46db23e27f010,['[Cd]'],"['[C]1=[C]N([C]=N1)C1=C2[N]S[N]C2=C([C]=[C]1)N1[C]=N[C]=[C]1', '[C]1=[C]N([C]=N1)C1=[C][C]=C(C2=C1[N]S[N]2)N1[C]=N[C]=[C]1', '[C]1=[C]N([C]=N1)C1=[C][C]=C(c2c1nsn2)N1[C]=N[C]=[C]1']",0,Cd.SCZFAWLKMAIEHW.MOFkey-v1
+31fb1fc0516364315f4e62065c274bde,[],[],,NA.MISSING_LINKERS.MOFkey-v1
+be026c56f8e18bedecd55f7567262699,['[O][Cd]'],"['N1=[C]N(N=[C]1)C1=[C][C]=C(c2c1non2)N1N=[C]N=[C]1', '[O-]C(=O)C1=[C][C]=C(S1)C(=O)[O-]']",1,Cd.ABNUBCGRLDJPRL.ZOTOWRYEGMMIPK.MOFkey-v1
+a8f8d0b1c82305f8bbd15e56c8867058,"['[O][Tm]', '[O][Tm][O]']",['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]'],0,Tm.CNLDCJYNBWCRFO.MOFkey-v1
+0d3ba8740d1eb78cd6c8e2ee5e2e3e6c,['[OH2][Co]'],['[O-]C(=O)c1ccc(o1)C(=O)[O-]'],1,Co.CHTHALBTIRVDBM.MOFkey-v1
+2420c11ec99c0a680c9d6a50a8c6854a,['[Zn][Zn]'],['[O-]C(=O)c1ccc(s1)C(=O)[O-]'],0,Zn.YCGAZNXXGKTASZ.MOFkey-v1
+470791ee52f1cb2eceb4c23a50128d77,['[Zn]'],['[O-]C(=O)c1ccc(cc1)C(=O)[O-]'],1,Zn.KKEYFWRCBNTPAC.MOFkey-v1
+cb20baeed7374110bf9f7d6cdc21757f,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.CNLDCJYNBWCRFO.XQTCTIGKOKAWTO.MOFkey-v1
+21508b2b527d68a1b8744b89618a0c1f,['[Zn]'],"['[O-]C(=O)C1CCC(CC1)C(=O)[O-]', 'n1ccn(c1)c1cc2nonc2c(c1)n1ccnc1']",0,Zn.PXGZQGDTEZPERC.XTHPHHINDWDQSY.MOFkey-v1
+4f08d73191c98fd27c83b66c13b425e0,['[Zn]'],"['[O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.ABMFBCRYHDZLRD.XQTCTIGKOKAWTO.MOFkey-v1
+19fdd4c21c5fb1896d8959381843e34d,['[Zn]'],['[O-]C(=O)c1cccc(c1)C(=O)[O-]'],0,Zn.QQVIHTHCMHWDBS.MOFkey-v1
+608e3ace0a2024c86db7eaa18e60951f,['[OH2][Cd][OH2]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],0,Cd.VUFFPGVFHRVLGA.MOFkey-v1
+f29c96dd7d3ec5854a29838b8bd00402,['[Zn]'],"['[O-]C(=O)c1cccc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.QQVIHTHCMHWDBS.XQTCTIGKOKAWTO.MOFkey-v1
+b018bbfa04703bcfcc9ca48caef5cbb3,['[Cd]'],"['C1=N[CH]N([N]1)c1ccc(c2c1n[se]n2)n1cncn1', '[O-]C(=O)c1ccc(cc1)C(=O)[O-]']",1,Cd.HPPDLTRSUODLHF.KKEYFWRCBNTPAC.MOFkey-v1
+03d8c825f033f0be34156906b2a2a191,"['[Mn]', '[O][Mn][O]']",['[O-]C(=O)c1nnn(c1)C1=CN=N[CH]1'],0,Mn.ALBULQBFRIGUAW.MOFkey-v1
+f5e6b338c0fc4d48f88b6646885b786d,[],[],,NA.MISSING_LINKERS.MOFkey-v1
+11ad0e105123bf33c306fc78623eb8be,"['[Cd]', '[Cd][Cd]', '[O][Cd]']","['C1=N[CH]N([N]1)c1ccc(c2c1nsn2)n1cncn1', 'N1=C[N]N([CH]1)c1ccc(c2c1nsn2)N1[N]C=N[CH]1', 'S1[N]c2c([N]1)c(N1[N]C=N[CH]1)c1c(c2N2[N]C=N[CH]2)nsn1', '[O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]']",0,Cd.BMECAHBIWZEJHK.SQJQLYOMPSJVQS.WHKOUADYTWYWNQ.MOFkey-v1
+15792c6a1fdf2d04222c02040f7b14a4,['[OH2][Eu]([OH2])[OH2]'],"['[O-]C(=O)c1cn(nn1)C1=CC(=N[N]1)C', '[O-]C(=O)c1cn(nn1)C1=C[C](N=N1)C', '[O-]C(=O)c1cn(nn1)c1[n-][nH]c(c1)C']",0,Eu.CUMMBOKIPLAOLQ.MGACOPLZKSNDAW.MOFkey-v1
+eb6f0b8da1b9fc21d55c405946a2e627,['[Cd]'],['[O-]C(=O)C1CCC(CC1)C(=O)[O-]'],0,Cd.PXGZQGDTEZPERC.MOFkey-v1
+04e9a96ccadffa23ec2a95a810161aa1,['[Zn]'],"['[O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Zn.ABMFBCRYHDZLRD.XQTCTIGKOKAWTO.MOFkey-v1
+f2c8a32861ccb21be9ab6040ea6da391,['[O][Zn]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1n[se]n2)n1[n-]cc(c1)C(=O)[O-]'],1,Zn.PNYVWVHFQUUNLO.MOFkey-v1
+d990e286a9b8f723557ec5b14c315512,[],[],,NA.MISSING_LINKERS.MOFkey-v1
+14b77d18d443b9ee50203dcd37766fbd,['[O][Cd]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],0,Cd.VUFFPGVFHRVLGA.MOFkey-v1
+59c250f534d2619b039894e792953099,['[Co][Co]'],['[O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]'],1,Co.RXOHFPCZGPKIRD.MOFkey-v1
+36ce01542dca6e2eae577159769efecd,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.CNLDCJYNBWCRFO.XQTCTIGKOKAWTO.MOFkey-v1
+9ce388d61924a4d0f26878a21091c491,[],[],,NA.MISSING_LINKERS.MOFkey-v1
+36d2b4157bc92deadc4cb93b125ca7e6,"['O[Eu]O', '[O][Eu](O)(O)O']",['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]'],0,Eu.CNLDCJYNBWCRFO.MOFkey-v1
+04fb1c540bfd65a5a453f939739fff5a,['[Zn][Zn]'],['[O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]'],0,Zn.SQJQLYOMPSJVQS.MOFkey-v1
+a4a0d98e17c729f93946058f67df2a0d,['[Zn]'],"['[O-]C(=O)C1CCC(CC1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Zn.PXGZQGDTEZPERC.XQTCTIGKOKAWTO.MOFkey-v1
+21059adb16277beeeb8e4d937a91cb59,['O[Zn]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],1,Zn.VUFFPGVFHRVLGA.MOFkey-v1
+c39f439454e0141cb84760cb3e232010,['[OH2][Co]Cl'],['[O-]C(=O)c1nnn(c1)c1c[nH][n-]c1'],0,Co.QJWGCXNQJOAYCZ.MOFkey-v1
+2fff851d7bb8b4f10fe303de2757bf7d,"['[OH2][Zn]', '[Zn]']",['[O-]C(=O)c1ccc(cc1)C(=O)[O-]'],1,Zn.KKEYFWRCBNTPAC.MOFkey-v1
+8e71296ff7bc11fbb260562cabeb33f7,['[O][Cd]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],0,Cd.VUFFPGVFHRVLGA.MOFkey-v1
+3b9fa4f893c96ca3a8fa674843db95fc,['O[Mn]O'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],0,Mn.VUFFPGVFHRVLGA.MOFkey-v1
+d3aa23631a83f90cd04d59213fbf81da,"['[O][Zn][O]', '[Zn]']","['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', 'n1ccc(cc1)c1ccncc1']",0,Zn.CNLDCJYNBWCRFO.MWVTWFVJZLCBMC.MOFkey-v1
+9e8a1dd2352a0cc01b13728901a31e5a,['[Zn]'],"['N1=C[N]N([CH]1)c1ccc(c2c1nsn2)N1[N]C=N[CH]1', 'S1S[N]c2c([N]1)c(ccc2N1[N]C=N[CH]1)N1[N]C=N[CH]1', '[O-]C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[O-]']",5,Zn.BMECAHBIWZEJHK.FAYKYBSOQRGEFZ.NEQFBGHQPUXOFH.MOFkey-v1
+c946032037f945548b80f2842d5b1678,['[OH2][Ce]([OH2])([OH2])[OH2]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)O', '[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]']",3,Ce.VUFFPGVFHRVLGA.MOFkey-v1
+f93b22d395d5c37be464d371fa3d9f9c,['[Zn]'],"['[O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.ABMFBCRYHDZLRD.XQTCTIGKOKAWTO.MOFkey-v1
+90d2a7cc2d672ea2a68edfdab7f09df0,"['O[La](O)(O)[OH2]', '[OH2][La][OH2]']",['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]'],0,La.CNLDCJYNBWCRFO.MOFkey-v1
+e74ac67312ec38a7566dab8e8dadf4a8,['O[Zn]O'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1n[se]n2)n1[n-]cc(c1)C(=O)[O-]'],1,Zn.PNYVWVHFQUUNLO.MOFkey-v1
+6ab6867ac8187471fece36b615703015,['[Zn][Zn]'],['[O-]C(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]'],1,Zn.RXOHFPCZGPKIRD.MOFkey-v1
+506bf74aa9636adeaf4c3884557038cd,['[Zn]'],"['[O-]C(=O)C1CCC(CC1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Zn.PXGZQGDTEZPERC.XQTCTIGKOKAWTO.MOFkey-v1
+6c31195504f06a57ecdc2c93b9bb5e86,['[Zn]'],['[O-]C(=O)c1cccc(c1)C(=O)[O-]'],0,Zn.QQVIHTHCMHWDBS.MOFkey-v1
+a838474e764453afec222b0567fa9679,[],[],,NA.MISSING_LINKERS.MOFkey-v1
+fde0b0750f50ab941bb818bbdc1e9a6f,['[OH2][Eu]([OH2])[OH2]'],"['[O-]C(=O)c1nnn(c1)C1=CN=N[CH]1', '[O-]C(=O)c1nnn(c1)C1=C[N]N=C1']",1,Eu.ALBULQBFRIGUAW.MOFkey-v1
+387f50f1a6889ba893369b8a4fcd092c,['[Cd]'],"['[O-]C(=O)c1ccc(c2c1cccc2)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Cd.ABMFBCRYHDZLRD.XQTCTIGKOKAWTO.MOFkey-v1
+33383d4ece1970a259322d2300bbb3f1,['[Cd]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1non2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",0,Cd.CNLDCJYNBWCRFO.XQTCTIGKOKAWTO.MOFkey-v1
+61d9c35594f64977bc4bfc701086d28a,['[Zn]'],['[O-]C(=O)c1ccc(s1)C(=O)[O-]'],1,Zn.YCGAZNXXGKTASZ.MOFkey-v1
+4e9a66def144bedca99eef58b3278c81,['[Zn]'],['[O-]C(=O)c1ccc(cc1)C(=O)[O-]'],1,Zn.KKEYFWRCBNTPAC.MOFkey-v1
+49593b8116687175f048445f6f93913e,['[Zn]'],"['[O-]C(=O)c1ccc(cc1)C(=O)[O-]', 'n1ccn(c1)c1cc2nonc2c(c1)n1ccnc1']",1,Zn.KKEYFWRCBNTPAC.XTHPHHINDWDQSY.MOFkey-v1
+4c3b6d9628dd6d631ca4110a38f214bd,['[Cd]'],"['C1=[N]=C(N=N1)n1ccnn1', '[N]1C=NN=C1n1ccnn1']",0,Cd.UZGXKMGEKBMBRT.MOFkey-v1
+39a11c2c85b1f2a176d867c0702ca8c6,['[Zn]'],['[O-]C(=O)C1=CN2N([CH]1)[C]c1nsnc1C=[C]N1N([C]=C3C(=C[C]2)[N]S[N]3)[CH]C(=C1)C(=O)[O-]'],1,Zn.GHARAWYYROZEMO.MOFkey-v1
+e9d0dd020d5859d1423da270252d38ec,['[Zn][Zn]'],['[O-]C(=O)c1ccc(cc1)C=Cc1ccc(cc1)C(=O)[O-]'],1,Zn.SBBQDUFLZGOASY.MOFkey-v1
+b7dbcf9d9a6152c42198f37a038f9307,['[Cd]'],['[C]1=[C]N([C]=N1)C1=[C][C]=C(c2c1nsn2)N1[C]=N[C]=[C]1'],0,Cd.SCZFAWLKMAIEHW.MOFkey-v1
+7f2f52d5940567d37ee4515d60dc5923,['[OH2][Zn]'],['[O-]C(=O)c1ccc(s1)C(=O)[O-]'],1,Zn.YCGAZNXXGKTASZ.MOFkey-v1
+819ac3a321b16d4dae896ff736363ec3,['[Cd]'],"['[C]1=[C]N([C]=N1)C1=[C][C]=C(c2c1nsn2)N1[C]=N[C]=[C]1', '[O-]C(=O)C1=[C][C]2[C]3[C]2C(=[C])C(=[C][C]2[C](C1=[C])[C]32)C(=O)[O-]', '[O-]C(=O)C1=[C][C]=C2C(=[C]1)[C]=[C]C(=[C]2)C(=O)[O-]']",0,Cd.AUHWIOALGNRQEY.SCZFAWLKMAIEHW.SUNOOLSLVPVHAB.MOFkey-v1
+1b040714d5011b874221f74f3cdc31be,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)Cn1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.DOJKRBBGCYWDCC.XQTCTIGKOKAWTO.MOFkey-v1
+31ef3d5d4bada48c382b6d7459146441,['[Eu]'],"['O1O[C]2OO[C]1[C]1N3N4N1C1[CH][N]56N3C4C15[N]13C46C([CH]1)N1N5C4N3N5[C]1[C]1OO[C](C34C5[N]67C89C%10N%11C%122N2N%11C9N2[N]8(C%10%12)C26C6N7N4N6N3C52)OO1.O1O[C]2OO[C]1[C]1N3N4N1C1[CH][N]56N3C4C15[N]13C46C5N1N1N5N5C4C3C15[C]1OO[C]([C]3N4C5C67[N]89N%10N%11[C]2N2N%11C%10C9(C2[CH]8)[N]6([CH]5)N2C7N4N32)OO1.[Cl].[Cl].[Cl].[Cl]', 'O1O[C]2OO[C]1[C]1N3N4N1C1[CH][N]56N3C4C15[N]13C46C([CH]1)N1N5C4N3N5[C]1[C]1OO[C](C34C5[N]67C89C%10N%11C%122N2N%11C9N2[N]8(C%10%12)C26C6N7N4N6N3C52)OO1.[CH]C1[N]23N4N5C61[N]N5C4[C]2[N]12C43C([CH]1)N1N3C4N2N3[C]1[C]1OO[C](OO1)C12N3N4[N]57C89C%10N%11[C]([C]%12OO[C]6OO%12)N6N%11C8N6[N]9([CH]%10)C65C4N3N1C6C27.[Cl].[Cl].[Cl].[Cl]', 'O1O[C]2OO[C]1[C]1N3N4N1N1C4C45C3[CH][N]14C13[N]45[CH]C1N1N5C3N4N5[C]1[C]1OO[C]([C]3N4N5[N]67C89C%10N%11[C]2N2N%11C8N2[N]9([CH]%10)C26C([CH]7)N3N4C52)OO1.O1O[C]2OO[C]1[C]1N3N4N1N1C4C45C3[CH][N]14C13[N]45[CH]C1N1N5C3N4N5[C]1[C]1OO[C]([C]3N4N5[N]67C89C%10N%11[C]2N2N%11C8N2[N]9([CH]%10)C26C([CH]7)N3N4C52)OO1.[Cl].[Cl].[Cl].[Cl]']",0,Eu.NGWGTYPOYPSJIB.VTYGJNIXDOJVPI.XEZBFRFCAKLPAP.MOFkey-v1
+3bdaf9fb670b74b85e3a2806ad1de5eb,['[Zn]'],['[C]1=[C]N([C]=N1)C1=[C][C]=C(c2c1nsn2)N1[C]=N[C]=[C]1'],0,Zn.SCZFAWLKMAIEHW.MOFkey-v1
+ab64f4914b42e8676d7a25184c2fdc72,['[Zn][Zn]'],['[O-]C(=O)c1cccc(c1)C(=O)[O-]'],1,Zn.QQVIHTHCMHWDBS.MOFkey-v1
+93203c78222ba8dab43fcf2336987567,['O[Zn]'],['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]'],1,Zn.VUFFPGVFHRVLGA.MOFkey-v1
+7abbcb96f22fe1f657ba3904e5ff8aa3,['[Zn][Zn]'],['[O-]C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[O-]'],1,Zn.SQJQLYOMPSJVQS.MOFkey-v1
+1394fe728b4a7e203e9f11fd613cccf2,['[Zn][Zn]'],['[O-]C(=O)c1ccc(cc1)C(=O)[O-]'],0,Zn.KKEYFWRCBNTPAC.MOFkey-v1
+eeb819db2453c30c8e9de2311eb84658,['[Zn]'],"['[O-]C(=O)n1nnc(c1)C1=CN=N[CH]1', '[O-]C(=O)n1nnc(c1)C1=C[N]N=C1']",0,Zn.ARIDEJBPTZQLBR.MOFkey-v1
+7293b8581396bc768fbc58bb7f777a0d,['[Zn]'],"['[O-]C(=O)c1c[n-]n(c1)c1ccc(c2c1nsn2)n1[n-]cc(c1)C(=O)[O-]', 's1nc2c(n1)c(ccc2n1cncc1)n1cncc1']",1,Zn.VUFFPGVFHRVLGA.XQTCTIGKOKAWTO.MOFkey-v1

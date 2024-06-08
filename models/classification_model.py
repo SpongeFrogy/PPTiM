@@ -30,10 +30,10 @@ class TrainError(Exception):
 
 # class for tune max_depth of AdaBoost
 class AdaBoostClf(AdaBoostClassifier):
-    def __init__(self, max_depth: int = 4, *, n_estimators: int = 50, learning_rate: float = 1, algorithm: Literal['SAMME', 'SAMME.R'] = "SAMME.R", random_state: int | RandomState | None = None, base_estimator: Any = "deprecated") -> None:
+    def __init__(self, max_depth: int = 4, *, n_estimators: int = 50, learning_rate: float = 1, algorithm: Literal['SAMME', 'SAMME.R'] = "SAMME.R", random_state: int = None, base_estimator: Any = "deprecated") -> None:
         self.max_depth = max_depth
         super().__init__(DecisionTreeClassifier(max_depth=max_depth), n_estimators=n_estimators,
-                         learning_rate=learning_rate, algorithm=algorithm, random_state=random_state, base_estimator=base_estimator)
+                         learning_rate=learning_rate, algorithm=algorithm, random_state=random_state)
 
 
 class ClassifierModel:
@@ -108,7 +108,7 @@ class ClassifierModel:
         res = {name: self.models[name].predict(X_test) for name in self.models}
         return res
 
-    def cv(self, X_train: DataFrame, y_train: DataFrame, time_per_clf: int = 10) -> dict[str, dict[str, int | float]]:
+    def cv(self, X_train: DataFrame, y_train: DataFrame, time_per_clf: int = 10) -> dict[str, dict[str, float]]:
         """method for cross validation with StratifiedKFold:
             - split X_train, y_train into 5 folds
             - optimize every classifier in their oun hyperparameter space with f1 macro score function 

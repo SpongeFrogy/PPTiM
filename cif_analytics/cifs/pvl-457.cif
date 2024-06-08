@@ -1,0 +1,99 @@
+data_xcalibur
+_audit_creation_date           2021-02-25
+_audit_creation_method         'CrysAlisPro 1.171.41.98a (Rigaku OD, 2021)'
+_computing_data_collection     'CrysAlisPro 1.171.41.98a (Rigaku OD, 2021)'
+_computing_cell_refinement     'CrysAlisPro 1.171.41.98a (Rigaku OD, 2021)'
+_computing_data_reduction      'CrysAlisPro 1.171.41.98a (Rigaku OD, 2021)'
+_cell_length_a                  9.3923(2) 
+_cell_length_b                  18.2963(5) 
+_cell_length_c                  11.4407(4) 
+_cell_angle_alpha               90.0 
+_cell_angle_beta                100.321(3) 
+_cell_angle_gamma               90.0 
+_cell_volume                    1934.20(10) 
+_cell_measurement_temperature   150.00(10) 
+_cell_measurement_reflns_used   9735
+_cell_measurement_theta_min     2.4460
+_cell_measurement_theta_max     29.4900
+_cell_oxdiff_length_a                  9.3951(4) 
+_cell_oxdiff_length_b                  18.2891(5) 
+_cell_oxdiff_length_c                  11.4380(5) 
+_cell_oxdiff_angle_alpha               90.057(3) 
+_cell_oxdiff_angle_beta                100.216(4) 
+_cell_oxdiff_angle_gamma               90.009(3) 
+_cell_oxdiff_volume                    1934.20(14) 
+_cell_oxdiff_measurement_reflns_used   9735
+_exptl_absorpt_correction_T_min                   0.92344
+_exptl_absorpt_correction_T_max                   1.00000
+_exptl_absorpt_correction_type            multi-scan
+_exptl_absorpt_process_details
+;
+CrysAlisPro 1.171.41.98a (Rigaku Oxford Diffraction, 2021)
+Empirical absorption correction using spherical harmonics,
+implemented in SCALE3 ABSPACK scaling algorithm.
+;
+_oxdiff_exptl_absorpt_empirical_full_min           0.947
+_oxdiff_exptl_absorpt_empirical_full_max           1.158
+_oxdiff_exptl_absorpt_empirical_details
+;
+Empirical correction (ABSPACK) includes:
+- Absorption correction using spherical harmonics
+- Frame scaling
+;
+_diffrn_ambient_temperature 150.00(10) 
+_diffrn_ambient_environment N~2~
+_diffrn_source 'fine-focus sealed X-ray tube'
+_diffrn_source_type 'Enhance (Mo) X-ray Source'
+_diffrn_radiation_probe x-ray
+_diffrn_radiation_type 'Mo K\a'
+_diffrn_radiation_wavelength 0.71073
+_diffrn_radiation_monochromator graphite
+_diffrn_measurement_device 'four-circle diffractometer'
+_diffrn_measurement_device_type 'New Xcalibur, AtlasS2'
+_diffrn_detector 'CCD plate'
+_diffrn_detector_type AtlasS2
+_diffrn_detector_area_resol_mean 10.6168
+_diffrn_reflns_number 19272
+_diffrn_reflns_av_R_equivalents 0.0245
+_diffrn_reflns_av_sigmaI/netI 0.0331
+_diffrn_reflns_limit_h_min -12
+_diffrn_reflns_limit_h_max 13
+_diffrn_reflns_limit_k_min -25
+_diffrn_reflns_limit_k_max 24
+_diffrn_reflns_limit_l_min -15
+_diffrn_reflns_limit_l_max 12
+_diffrn_reflns_theta_min 1.8093
+_diffrn_reflns_theta_max 29.6480
+_diffrn_measured_fraction_theta_max 0.8867
+_diffrn_reflns_theta_full 26.3154
+_diffrn_measured_fraction_theta_full 0.9998
+_diffrn_orient_matrix_type 'CrysAlisPro convention (1999,Acta A55,543-557)'
+_diffrn_orient_matrix_UB_11       0.0369342000
+_diffrn_orient_matrix_UB_12      -0.0143864000
+_diffrn_orient_matrix_UB_13       0.0545969000
+_diffrn_orient_matrix_UB_21      -0.0329813000
+_diffrn_orient_matrix_UB_22      -0.0345007000
+_diffrn_orient_matrix_UB_23      -0.0144734000
+_diffrn_orient_matrix_UB_31       0.0585920000
+_diffrn_orient_matrix_UB_32      -0.0103349000
+_diffrn_orient_matrix_UB_33      -0.0279314000
+_diffrn_measurement_details
+;
+List of Runs (angles in degrees, time in seconds):
+
+  # Type    Start    End  Width  t~exp~   \w     \q     \k     \f   Frames
+--------------------------------------------------------------------------
+  1  \w    -81.00 -42.00   0.50   40.00    --  -11.49 178.00 -60.00   78
+  2  \w     39.00  99.00   0.50   40.00    --   12.11-178.00   0.00  120
+  3  \w     69.00  99.00   0.50   40.00    --   12.11-178.00-120.00   60
+  4  \w    -70.00  96.00   0.50   40.00    --   12.11   0.00  90.00  332
+  5  \w    -19.00  37.00   0.50   40.00    --   12.11  77.00 -60.00  112
+;
+_diffrn_measurement_method '\w scans'
+_space_group_IT_number 13
+_space_group_crystal_system monoclinic
+_space_group_name_H-M_alt 'P 1 2/n 1'
+_reflns_odcompleteness_completeness		99.98
+_reflns_odcompleteness_theta		26.32
+_reflns_odcompleteness_iscentric		1
+_chemical_oxdiff_formula 'C20 H20 N10 O4 Zn2 Br2 S2'
